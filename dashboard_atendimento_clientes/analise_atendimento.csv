@@ -1,0 +1,51 @@
+ID_Atendimento,Data_Atendimento,Cliente_ID,Canal,Tempo_Resposta_Minutos,Resolvido,Satisfacao
+1,2024-01-01,C001,E-mail,15,Sim,5
+2,2024-01-02,C002,Telefone,30,Não,4
+3,2024-01-03,C003,Chat Online,10,Sim,3
+4,2024-01-04,C004,WhatsApp,45,Não,2
+5,2024-01-05,C005,E-mail,25,Sim,1
+6,2024-01-06,C006,Telefone,20,Não,5
+7,2024-01-07,C007,Chat Online,50,Sim,4
+8,2024-01-08,C008,WhatsApp,5,Não,3
+9,2024-01-09,C009,E-mail,35,Sim,2
+10,2024-01-10,C010,Telefone,40,Não,1
+11,2024-01-11,C011,Chat Online,15,Sim,5
+12,2024-01-12,C012,WhatsApp,30,Não,4
+13,2024-01-13,C013,E-mail,10,Sim,3
+14,2024-01-14,C014,Telefone,45,Não,3
+15,2024-01-15,C015,Chat Online,25,Sim,1
+16,2024-01-16,C016,WhatsApp,20,Não,5
+17,2024-01-17,C017,E-mail,50,Sim,4
+18,2024-01-18,C018,Telefone,5,Não,3
+19,2024-01-19,C019,Chat Online,35,Não,3
+20,2024-01-20,C020,WhatsApp,40,Não,3
+21,2024-01-21,C021,E-mail,15,Sim,5
+22,2024-01-22,C022,Telefone,30,Não,4
+23,2024-01-23,C023,Chat Online,10,Sim,3
+24,2024-01-24,C024,WhatsApp,45,Não,3
+25,2024-01-25,C025,E-mail,25,Não,1
+26,2024-01-26,C026,Telefone,20,Não,5
+27,2024-01-27,C027,Chat Online,50,Sim,4
+28,2024-01-28,C028,WhatsApp,5,Não,3
+29,2024-01-29,C029,E-mail,35,Não,1
+30,2024-01-30,C030,Telefone,40,Não,1
+31,2024-01-31,C031,Chat Online,15,Sim,5
+32,2024-02-01,C032,WhatsApp,30,Não,4
+33,2024-02-02,C033,E-mail,10,Sim,3
+34,2024-02-03,C034,Telefone,45,Não,2
+35,2024-02-04,C035,Chat Online,25,Não,2
+36,2024-02-05,C036,WhatsApp,20,Não,5
+37,2024-02-06,C037,E-mail,50,Sim,4
+38,2024-02-07,C038,Telefone,5,Não,3
+39,2024-02-08,C039,Chat Online,35,Sim,2
+40,2024-02-09,C040,WhatsApp,40,Não,3
+41,2024-02-10,C041,E-mail,15,Sim,5
+42,2024-02-11,C042,Telefone,30,Não,4
+43,2024-02-12,C043,Chat Online,10,Sim,3
+44,2024-02-13,C044,WhatsApp,45,Não,2
+45,2024-02-14,C045,E-mail,25,Não,1
+46,2024-02-15,C046,Telefone,20,Não,5
+47,2024-02-16,C047,Chat Online,50,Sim,4
+48,2024-02-17,C048,WhatsApp,5,Não,3
+49,2024-02-18,C049,E-mail,35,Sim,2
+50,2024-02-19,C050,Chat Online,40,Não,1
