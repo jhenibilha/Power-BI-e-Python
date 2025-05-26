@@ -1,0 +1,101 @@
+imovel_id,tipo_imovel,preco,bairro,data_construcao
+1,Apartamento,395437.81,Petrópolis,2015-01-13
+2,Casa,602374.77,Vila Flores,2016-07-24
+3,Casa,419592.43,Campo Bom,2015-12-11
+4,Casa,720023.6,Vila Flores,2016-10-20
+5,Apartamento,609305.69,Centro,2018-03-24
+6,Casa,,Vila Flores,2016-06-01
+7,Casa,249231.72,Centro,2018-12-07
+8,Casa,490808.01,Petrópolis,2015-06-09
+9,Apartamento,513835.08,Moinhos de Vento,2018-08-17
+10,Apartamento,697649.9,Vila Flores,2016-10-13
+11,Apartamento,395038.51,Vila Flores,2018-09-03
+12,Apartamento,240139.66,Moinhos de Vento,2018-05-21
+13,Casa,530626.3,Petrópolis,2018-02-20
+14,Casa,409586.83,Ponta Grossa,2016-06-23
+15,Apartamento,620952.77,Petrópolis,2018-11-23
+16,Apartamento,593525.48,Ponta Grossa,2018-03-29
+17,,680141.85,,2019-08-03
+18,Casa,592822.02,Moinhos de Vento,2015-08-01
+19,Apartamento,344089.67,Petrópolis,2015-09-26
+20,Apartamento,316590.69,Centro,2016-10-03
+21,Apartamento,611151.35,Ponta Grossa,2020-04-22
+22,Casa,152163.81,Vila Flores,2017-09-10
+23,,654503.87,Ponta Grossa,2017-10-02
+24,Casa,248246.69,Vila Flores,2015-05-02
+25,Apartamento,797761.32,Petrópolis,2019-12-28
+26,,,Petrópolis,2020-06-11
+27,,523641.73,Ponta Grossa,2018-02-05
+28,,419225.73,Campo Bom,2017-02-28
+29,Apartamento,774935.99,Centro,2015-08-14
+30,Apartamento,177493.9,Centro,2015-06-06
+31,Apartamento,778119.6,Moinhos de Vento,2016-06-29
+32,Apartamento,405084.72,Moinhos de Vento,2019-11-15
+33,Apartamento,660324.86,,2017-01-16
+34,Casa,787024.7,,2015-06-25
+35,Casa,327565.69,,2017-12-19
+36,Casa,237766.4,Vila Flores,2019-07-28
+37,Apartamento,272502.17,Centro,2017-01-18
+38,Casa,696811.0,Ponta Grossa,2017-12-29
+39,Casa,728153.14,Moinhos de Vento,2019-03-14
+40,Apartamento,460700.73,Petrópolis,2019-06-24
+41,Casa,615895.3,Campo Bom,2020-03-06
+42,Casa,423973.15,Petrópolis,2017-07-06
+43,Apartamento,491392.39,Petrópolis,2015-12-12
+44,Casa,167696.25,Petrópolis,2015-09-03
+45,Casa,241545.87,Vila Flores,2020-04-15
+46,Apartamento,485387.11,Ponta Grossa,2019-11-24
+47,Apartamento,685576.07,Ponta Grossa,2015-10-03
+48,Casa,422039.43,Ponta Grossa,2017-03-31
+49,Casa,613621.85,Centro,2020-04-24
+50,Apartamento,638088.99,Ponta Grossa,2017-11-14
+51,Casa,395186.03,Moinhos de Vento,2015-04-17
+52,Casa,259745.89,Centro,2020-04-16
+53,Apartamento,619694.83,Moinhos de Vento,2017-03-04
+54,Casa,285743.82,Moinhos de Vento,2019-12-21
+55,Apartamento,617915.79,Moinhos de Vento,2017-10-22
+56,Casa,467911.75,Petrópolis,2020-03-01
+57,Casa,740211.62,Vila Flores,2019-05-30
+58,Apartamento,217213.14,Ponta Grossa,2017-08-21
+59,Casa,429732.79,Petrópolis,2017-12-29
+60,Apartamento,155940.74,Petrópolis,2015-10-12
+61,Apartamento,252933.06,Campo Bom,2017-09-30
+62,Apartamento,200816.54,Campo Bom,2016-03-27
+63,Casa,253727.47,Moinhos de Vento,2016-10-11
+64,Apartamento,226581.58,Moinhos de Vento,2016-02-22
+65,Casa,295152.5,Vila Flores,2018-11-20
+66,Casa,488200.09,Petrópolis,2019-11-02
+67,Apartamento,263956.25,Moinhos de Vento,2019-02-08
+68,Casa,761051.06,Centro,2018-06-14
+69,Apartamento,201937.81,Moinhos de Vento,2018-11-25
+70,Casa,374814.06,Moinhos de Vento,2019-08-16
+71,Casa,305521.58,Campo Bom,2020-02-28
+72,Casa,617581.94,Moinhos de Vento,2019-12-10
+73,Casa,304024.04,Ponta Grossa,2020-05-15
+74,Apartamento,176485.2,Petrópolis,2016-10-18
+75,Apartamento,248758.51,Centro,2016-05-07
+76,Apartamento,611560.43,Moinhos de Vento,2018-06-04
+77,Apartamento,193341.42,Campo Bom,2019-04-05
+78,Casa,774162.65,Petrópolis,2016-02-10
+79,Apartamento,237754.89,Ponta Grossa,2017-12-22
+80,Casa,379826.83,Centro,2016-06-19
+81,Apartamento,492562.5,Moinhos de Vento,2018-08-11
+82,Apartamento,193163.08,Moinhos de Vento,2016-09-03
+83,Apartamento,150901.33,Vila Flores,2015-09-04
+84,Apartamento,612660.31,,2019-05-14
+85,Casa,560110.66,,2017-06-17
+86,Casa,697669.06,,2020-03-10
+87,Apartamento,530809.0,Vila Flores,2016-05-03
+88,Apartamento,464712.32,Moinhos de Vento,2020-03-28
+89,Casa,722754.8,Centro,2019-05-06
+90,Apartamento,694723.01,Vila Flores,2019-12-07
+91,Casa,168719.59,Ponta Grossa,2020-06-21
+92,Casa,202969.24,Ponta Grossa,2017-04-04
+93,,334613.28,Campo Bom,2015-02-13
+94,,329454.33,Ponta Grossa,2015-06-13
+95,,495662.3,Moinhos de Vento,2018-03-14
+96,Casa,444272.46,Petrópolis,2016-03-27
+97,Casa,542611.37,Centro,2018-03-30
+98,Casa,267293.42,Moinhos de Vento,2017-05-19
+99,Apartamento,256639.14,Centro,2015-08-20
+100,Apartamento,637600.55,Moinhos de Vento,2019-04-27
