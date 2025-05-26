@@ -1,0 +1,914 @@
+data_vencimento,data_recebimento,nome_cliente,valor,situacao,forma_pagamento,mes_contrato,dias_atraso
+2024-01-10,2000-01-01,Cliente_1_1,312.99,em aberto,Boleto,Contrato 1/2024,
+2024-01-05,2024-01-02,Cliente_1_2,295.65,recebido,Boleto,Contrato 1/2024,-3.0
+2024-01-05,2024-01-06,Cliente_1_3,676.75,recebido,Cartão de Crédito,Contrato 1/2024,1.0
+2024-01-05,2000-01-01,Cliente_1_4,810.68,em aberto,Pix,Contrato 1/2024,
+2024-01-30,2000-01-01,Cliente_1_5,911.73,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-05,2024-01-19,Cliente_1_6,225.89,recebido,Boleto,Contrato 1/2024,14.0
+2024-01-20,2024-01-29,Cliente_1_7,801.16,recebido,Boleto,Contrato 1/2024,9.0
+2024-01-30,2024-01-30,Cliente_1_8,616.55,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-05,2000-01-01,Cliente_1_9,716.9,em aberto,Pix,Contrato 1/2024,
+2024-01-05,2023-12-29,Cliente_1_10,561.98,recebido,Boleto,Contrato 1/2024,-7.0
+2024-01-10,2024-01-08,Cliente_1_11,586.09,recebido,Boleto,Contrato 1/2024,-2.0
+2024-01-20,2000-01-01,Cliente_1_12,167.2,em aberto,Pix,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_13,185.97,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_14,722.57,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_15,351.08,em aberto,Pix,Contrato 1/2024,
+2024-01-30,2000-01-01,Cliente_1_16,232.15,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-10,2024-01-08,Cliente_1_17,921.02,recebido,Pix,Contrato 1/2024,-2.0
+2024-01-30,2024-01-30,Cliente_1_18,391.92,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-10,2024-01-10,Cliente_1_19,331.35,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-10,2000-01-01,Cliente_1_20,951.67,em aberto,Boleto,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_21,603.32,em aberto,Pix,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_22,113.78,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_23,452.62,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-20,2024-01-20,Cliente_1_24,645.25,recebido,Pix,Contrato 1/2024,0.0
+2024-01-30,2000-01-01,Cliente_1_25,773.54,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-05,2000-01-01,Cliente_1_26,633.92,em aberto,Pix,Contrato 1/2024,
+2024-01-30,2000-01-01,Cliente_1_27,153.99,em aberto,Pix,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_28,771.09,em aberto,Boleto,Contrato 1/2024,
+2024-01-10,2024-01-10,Cliente_1_29,298.97,recebido,Boleto,Contrato 1/2024,0.0
+2024-01-10,2000-01-01,Cliente_1_30,997.92,em aberto,Boleto,Contrato 1/2024,
+2024-01-10,2023-12-31,Cliente_1_31,646.87,recebido,Cartão de Crédito,Contrato 1/2024,-10.0
+2024-01-30,2000-01-01,Cliente_1_32,534.36,em aberto,Pix,Contrato 1/2024,
+2024-01-05,2024-01-05,Cliente_1_33,409.45,recebido,Pix,Contrato 1/2024,0.0
+2024-01-20,2000-01-01,Cliente_1_34,830.69,em aberto,Boleto,Contrato 1/2024,
+2024-01-05,2000-01-01,Cliente_1_35,848.55,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-30,2000-01-01,Cliente_1_36,963.76,em aberto,Pix,Contrato 1/2024,
+2024-01-05,2000-01-01,Cliente_1_37,453.26,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-10,2000-01-01,Cliente_1_38,991.88,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-20,2024-01-20,Cliente_1_39,103.37,recebido,Pix,Contrato 1/2024,0.0
+2024-01-05,2024-01-12,Cliente_1_40,114.17,recebido,Pix,Contrato 1/2024,7.0
+2024-01-20,2000-01-01,Cliente_1_41,921.78,em aberto,Pix,Contrato 1/2024,
+2024-01-10,2024-01-10,Cliente_1_42,809.14,recebido,Pix,Contrato 1/2024,0.0
+2024-01-05,2000-01-01,Cliente_1_43,277.1,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-10,2024-01-12,Cliente_1_44,211.99,recebido,Boleto,Contrato 1/2024,2.0
+2024-01-20,2024-01-28,Cliente_1_45,279.65,recebido,Pix,Contrato 1/2024,8.0
+2024-01-10,2024-01-10,Cliente_1_46,291.27,recebido,Boleto,Contrato 1/2024,0.0
+2024-01-20,2000-01-01,Cliente_1_47,694.56,em aberto,Pix,Contrato 1/2024,
+2024-01-20,2024-01-20,Cliente_1_48,656.47,recebido,Pix,Contrato 1/2024,0.0
+2024-01-30,2000-01-01,Cliente_1_49,656.08,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-30,2000-01-01,Cliente_1_50,322.83,em aberto,Boleto,Contrato 1/2024,
+2024-01-30,2024-01-30,Cliente_1_51,215.39,recebido,Boleto,Contrato 1/2024,0.0
+2024-01-20,2000-01-01,Cliente_1_52,671.98,em aberto,Boleto,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_53,431.35,em aberto,Boleto,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_54,328.18,em aberto,Boleto,Contrato 1/2024,
+2024-01-30,2024-01-26,Cliente_1_55,213.01,recebido,Boleto,Contrato 1/2024,-4.0
+2024-01-05,2000-01-01,Cliente_1_56,779.81,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-10,2024-01-10,Cliente_1_57,428.57,recebido,Boleto,Contrato 1/2024,0.0
+2024-01-30,2000-01-01,Cliente_1_58,944.23,em aberto,Boleto,Contrato 1/2024,
+2024-01-20,2024-01-20,Cliente_1_59,122.47,recebido,Boleto,Contrato 1/2024,0.0
+2024-01-30,2000-01-01,Cliente_1_60,143.52,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-05,2024-01-05,Cliente_1_61,849.95,recebido,Pix,Contrato 1/2024,0.0
+2024-01-20,2024-01-26,Cliente_1_62,874.35,recebido,Cartão de Crédito,Contrato 1/2024,6.0
+2024-01-20,2000-01-01,Cliente_1_63,727.49,em aberto,Pix,Contrato 1/2024,
+2024-01-30,2000-01-01,Cliente_1_64,260.82,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-20,2024-01-16,Cliente_1_65,824.62,recebido,Boleto,Contrato 1/2024,-4.0
+2024-01-30,2024-01-30,Cliente_1_66,529.51,recebido,Pix,Contrato 1/2024,0.0
+2024-01-30,2000-01-01,Cliente_1_67,353.79,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-30,2024-01-30,Cliente_1_68,729.86,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-20,2024-01-20,Cliente_1_69,746.02,recebido,Boleto,Contrato 1/2024,0.0
+2024-01-10,2000-01-01,Cliente_1_70,180.33,em aberto,Pix,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_71,650.38,em aberto,Boleto,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_72,792.7,em aberto,Pix,Contrato 1/2024,
+2024-01-10,2000-01-01,Cliente_1_73,681.09,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-20,2024-01-20,Cliente_1_74,297.29,recebido,Pix,Contrato 1/2024,0.0
+2024-01-10,2024-01-23,Cliente_1_75,740.11,recebido,Boleto,Contrato 1/2024,13.0
+2024-01-30,2024-01-21,Cliente_1_76,723.85,recebido,Pix,Contrato 1/2024,-9.0
+2024-01-30,2000-01-01,Cliente_1_77,886.33,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-20,2024-01-20,Cliente_1_78,204.99,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-05,2000-01-01,Cliente_1_79,601.86,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-05,2024-01-03,Cliente_1_80,952.29,recebido,Pix,Contrato 1/2024,-2.0
+2024-01-20,2024-01-15,Cliente_1_81,952.06,recebido,Cartão de Crédito,Contrato 1/2024,-5.0
+2024-01-30,2000-01-01,Cliente_1_82,491.27,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-05,2024-01-13,Cliente_1_83,939.12,recebido,Cartão de Crédito,Contrato 1/2024,8.0
+2024-01-05,2000-01-01,Cliente_1_84,675.53,em aberto,Pix,Contrato 1/2024,
+2024-01-05,2000-01-01,Cliente_1_85,999.75,em aberto,Boleto,Contrato 1/2024,
+2024-01-10,2000-01-01,Cliente_1_86,278.89,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-05,2024-01-09,Cliente_1_87,592.2,recebido,Cartão de Crédito,Contrato 1/2024,4.0
+2024-01-30,2024-01-30,Cliente_1_88,603.48,recebido,Boleto,Contrato 1/2024,0.0
+2024-01-30,2000-01-01,Cliente_1_89,670.31,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-30,2024-01-27,Cliente_1_90,170.74,recebido,Cartão de Crédito,Contrato 1/2024,-3.0
+2024-01-05,2024-01-08,Cliente_1_91,459.6,recebido,Cartão de Crédito,Contrato 1/2024,3.0
+2024-01-20,2000-01-01,Cliente_1_92,356.28,em aberto,Pix,Contrato 1/2024,
+2024-01-30,2024-01-30,Cliente_1_93,276.75,recebido,Boleto,Contrato 1/2024,0.0
+2024-01-20,2000-01-01,Cliente_1_94,943.76,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-10,2024-01-10,Cliente_1_95,523.14,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-05,2024-01-05,Cliente_1_96,354.03,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-20,2000-01-01,Cliente_1_97,505.34,em aberto,Boleto,Contrato 1/2024,
+2024-01-10,2000-01-01,Cliente_1_98,761.88,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_99,390.52,em aberto,Pix,Contrato 1/2024,
+2024-01-20,2000-01-01,Cliente_1_100,293.98,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-05,2000-01-01,Cliente_1_101,422.61,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-30,2000-01-01,Cliente_1_102,558.45,em aberto,Boleto,Contrato 1/2024,
+2024-01-20,2024-01-20,Cliente_1_103,368.88,recebido,Pix,Contrato 1/2024,0.0
+2024-01-05,2000-01-01,Cliente_1_104,660.69,em aberto,Boleto,Contrato 1/2024,
+2024-01-05,2000-01-01,Cliente_1_105,511.49,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-05,2024-01-05,Cliente_1_106,250.67,recebido,Pix,Contrato 1/2024,0.0
+2024-01-30,2000-01-01,Cliente_1_107,147.76,em aberto,Pix,Contrato 1/2024,
+2024-01-05,2024-01-13,Cliente_1_108,844.3,recebido,Boleto,Contrato 1/2024,8.0
+2024-01-10,2024-01-10,Cliente_1_109,507.04,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-30,2024-01-25,Cliente_1_110,348.97,recebido,Pix,Contrato 1/2024,-5.0
+2024-01-05,2024-01-12,Cliente_1_111,623.31,recebido,Boleto,Contrato 1/2024,7.0
+2024-01-10,2024-01-10,Cliente_1_112,162.47,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-10,2000-01-01,Cliente_1_113,122.84,em aberto,Pix,Contrato 1/2024,
+2024-01-05,2024-01-03,Cliente_1_114,808.92,recebido,Boleto,Contrato 1/2024,-2.0
+2024-01-30,2000-01-01,Cliente_1_115,961.58,em aberto,Pix,Contrato 1/2024,
+2024-01-30,2024-01-22,Cliente_1_116,399.91,recebido,Pix,Contrato 1/2024,-8.0
+2024-01-20,2024-01-20,Cliente_1_117,936.29,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-30,2000-01-01,Cliente_1_118,415.49,em aberto,Boleto,Contrato 1/2024,
+2024-01-30,2000-01-01,Cliente_1_119,922.37,em aberto,Boleto,Contrato 1/2024,
+2024-01-05,2000-01-01,Cliente_1_120,962.87,em aberto,Pix,Contrato 1/2024,
+2024-01-05,2000-01-01,Cliente_1_121,478.74,em aberto,Pix,Contrato 1/2024,
+2024-01-05,2023-12-27,Cliente_1_122,844.78,recebido,Cartão de Crédito,Contrato 1/2024,-9.0
+2024-01-05,2000-01-01,Cliente_1_123,205.97,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-20,2024-01-20,Cliente_1_124,489.8,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-20,2024-01-19,Cliente_1_125,953.78,recebido,Pix,Contrato 1/2024,-1.0
+2024-01-20,2024-01-17,Cliente_1_126,780.23,recebido,Cartão de Crédito,Contrato 1/2024,-3.0
+2024-01-30,2024-02-03,Cliente_1_127,535.23,recebido,Pix,Contrato 1/2024,4.0
+2024-01-10,2024-01-10,Cliente_1_128,147.72,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-30,2000-01-01,Cliente_1_129,969.97,em aberto,Boleto,Contrato 1/2024,
+2024-01-05,2000-01-01,Cliente_1_130,900.13,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-05,2000-01-01,Cliente_1_131,339.16,em aberto,Boleto,Contrato 1/2024,
+2024-01-20,2024-01-20,Cliente_1_132,396.26,recebido,Pix,Contrato 1/2024,0.0
+2024-01-10,2000-01-01,Cliente_1_133,541.22,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-05,2000-01-01,Cliente_1_134,100.84,em aberto,Boleto,Contrato 1/2024,
+2024-01-30,2024-01-30,Cliente_1_135,952.56,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-10,2000-01-01,Cliente_1_136,188.52,em aberto,Pix,Contrato 1/2024,
+2024-01-30,2024-01-25,Cliente_1_137,233.84,recebido,Pix,Contrato 1/2024,-5.0
+2024-01-20,2024-01-11,Cliente_1_138,238.63,recebido,Boleto,Contrato 1/2024,-9.0
+2024-01-10,2024-01-10,Cliente_1_139,387.89,recebido,Pix,Contrato 1/2024,0.0
+2024-01-10,2024-01-10,Cliente_1_140,940.56,recebido,Cartão de Crédito,Contrato 1/2024,0.0
+2024-01-10,2000-01-01,Cliente_1_141,440.65,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-05,2024-01-05,Cliente_1_142,869.38,recebido,Boleto,Contrato 1/2024,0.0
+2024-01-05,2000-01-01,Cliente_1_143,365.22,em aberto,Boleto,Contrato 1/2024,
+2024-01-20,2024-01-20,Cliente_1_144,413.03,recebido,Pix,Contrato 1/2024,0.0
+2024-01-05,2023-12-28,Cliente_1_145,614.16,recebido,Pix,Contrato 1/2024,-8.0
+2024-01-20,2000-01-01,Cliente_1_146,275.96,em aberto,Boleto,Contrato 1/2024,
+2024-01-30,2000-01-01,Cliente_1_147,881.13,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-01-20,2024-01-20,Cliente_1_148,358.33,recebido,Boleto,Contrato 1/2024,0.0
+2024-01-20,2024-01-10,Cliente_1_149,846.92,recebido,Boleto,Contrato 1/2024,-10.0
+2024-01-05,2000-01-01,Cliente_1_150,533.01,em aberto,Cartão de Crédito,Contrato 1/2024,
+2024-02-10,2000-01-01,Cliente_2_1,462.1,em aberto,Boleto,Contrato 2/2024,
+2024-02-20,2024-03-06,Cliente_2_2,684.53,recebido,Pix,Contrato 2/2024,15.0
+2024-02-29,2024-02-28,Cliente_2_3,980.45,recebido,Cartão de Crédito,Contrato 2/2024,-1.0
+2024-02-29,2000-01-01,Cliente_2_4,764.07,em aberto,Pix,Contrato 2/2024,
+2024-02-20,2024-02-11,Cliente_2_5,314.13,recebido,Boleto,Contrato 2/2024,-9.0
+2024-02-29,2024-03-07,Cliente_2_6,608.38,recebido,Pix,Contrato 2/2024,7.0
+2024-02-29,2024-03-15,Cliente_2_7,482.19,recebido,Pix,Contrato 2/2024,15.0
+2024-02-29,2024-02-29,Cliente_2_8,782.87,recebido,Cartão de Crédito,Contrato 2/2024,0.0
+2024-02-10,2000-01-01,Cliente_2_9,486.26,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-20,2000-01-01,Cliente_2_10,525.91,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-20,2000-01-01,Cliente_2_11,235.76,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-29,2000-01-01,Cliente_2_12,143.37,em aberto,Boleto,Contrato 2/2024,
+2024-02-29,2000-01-01,Cliente_2_13,470.69,em aberto,Pix,Contrato 2/2024,
+2024-02-29,2024-02-23,Cliente_2_14,891.68,recebido,Boleto,Contrato 2/2024,-6.0
+2024-02-29,2000-01-01,Cliente_2_15,553.84,em aberto,Pix,Contrato 2/2024,
+2024-02-29,2024-02-29,Cliente_2_16,467.98,recebido,Pix,Contrato 2/2024,0.0
+2024-02-05,2000-01-01,Cliente_2_17,694.51,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-29,2000-01-01,Cliente_2_18,339.28,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-20,2000-01-01,Cliente_2_19,291.61,em aberto,Pix,Contrato 2/2024,
+2024-02-10,2000-01-01,Cliente_2_20,268.43,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-29,2024-02-29,Cliente_2_21,906.33,recebido,Cartão de Crédito,Contrato 2/2024,0.0
+2024-02-10,2024-02-07,Cliente_2_22,680.08,recebido,Cartão de Crédito,Contrato 2/2024,-3.0
+2024-02-05,2024-01-29,Cliente_2_23,928.94,recebido,Pix,Contrato 2/2024,-7.0
+2024-02-29,2000-01-01,Cliente_2_24,619.42,em aberto,Boleto,Contrato 2/2024,
+2024-02-29,2000-01-01,Cliente_2_25,651.8,em aberto,Boleto,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_26,941.88,em aberto,Boleto,Contrato 2/2024,
+2024-02-10,2000-01-01,Cliente_2_27,987.25,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-10,2000-01-01,Cliente_2_28,346.75,em aberto,Pix,Contrato 2/2024,
+2024-02-10,2000-01-01,Cliente_2_29,122.49,em aberto,Pix,Contrato 2/2024,
+2024-02-05,2024-02-10,Cliente_2_30,357.25,recebido,Cartão de Crédito,Contrato 2/2024,5.0
+2024-02-05,2000-01-01,Cliente_2_31,500.67,em aberto,Pix,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_32,770.6,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-10,2024-02-05,Cliente_2_33,283.76,recebido,Boleto,Contrato 2/2024,-5.0
+2024-02-20,2024-03-03,Cliente_2_34,348.38,recebido,Boleto,Contrato 2/2024,12.0
+2024-02-29,2000-01-01,Cliente_2_35,477.74,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-29,2000-01-01,Cliente_2_36,150.52,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-29,2000-01-01,Cliente_2_37,801.46,em aberto,Pix,Contrato 2/2024,
+2024-02-29,2000-01-01,Cliente_2_38,884.09,em aberto,Pix,Contrato 2/2024,
+2024-02-20,2024-02-20,Cliente_2_39,829.66,recebido,Pix,Contrato 2/2024,0.0
+2024-02-20,2024-02-12,Cliente_2_40,466.04,recebido,Pix,Contrato 2/2024,-8.0
+2024-02-20,2000-01-01,Cliente_2_41,612.02,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-20,2024-02-21,Cliente_2_42,928.67,recebido,Cartão de Crédito,Contrato 2/2024,1.0
+2024-02-29,2024-02-21,Cliente_2_43,386.95,recebido,Pix,Contrato 2/2024,-8.0
+2024-02-29,2024-02-29,Cliente_2_44,564.1,recebido,Cartão de Crédito,Contrato 2/2024,0.0
+2024-02-10,2000-01-01,Cliente_2_45,726.56,em aberto,Boleto,Contrato 2/2024,
+2024-02-10,2000-01-01,Cliente_2_46,182.49,em aberto,Pix,Contrato 2/2024,
+2024-02-20,2024-03-03,Cliente_2_47,572.58,recebido,Pix,Contrato 2/2024,12.0
+2024-02-05,2000-01-01,Cliente_2_48,774.07,em aberto,Boleto,Contrato 2/2024,
+2024-02-29,2000-01-01,Cliente_2_49,157.16,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-05,2024-02-11,Cliente_2_50,203.51,recebido,Cartão de Crédito,Contrato 2/2024,6.0
+2024-02-20,2024-03-02,Cliente_2_51,652.55,recebido,Pix,Contrato 2/2024,11.0
+2024-02-29,2024-02-23,Cliente_2_52,704.52,recebido,Cartão de Crédito,Contrato 2/2024,-6.0
+2024-02-05,2000-01-01,Cliente_2_53,734.17,em aberto,Boleto,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_54,513.34,em aberto,Boleto,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_55,539.87,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-20,2000-01-01,Cliente_2_56,158.91,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-10,2000-01-01,Cliente_2_57,321.82,em aberto,Pix,Contrato 2/2024,
+2024-02-10,2000-01-01,Cliente_2_58,481.72,em aberto,Boleto,Contrato 2/2024,
+2024-02-05,2024-02-18,Cliente_2_59,530.96,recebido,Cartão de Crédito,Contrato 2/2024,13.0
+2024-02-29,2024-02-21,Cliente_2_60,227.46,recebido,Pix,Contrato 2/2024,-8.0
+2024-02-20,2000-01-01,Cliente_2_61,835.2,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-20,2024-02-17,Cliente_2_62,311.81,recebido,Boleto,Contrato 2/2024,-3.0
+2024-02-20,2000-01-01,Cliente_2_63,975.63,em aberto,Boleto,Contrato 2/2024,
+2024-02-10,2024-02-07,Cliente_2_64,718.45,recebido,Pix,Contrato 2/2024,-3.0
+2024-02-10,2000-01-01,Cliente_2_65,373.77,em aberto,Boleto,Contrato 2/2024,
+2024-02-10,2024-02-10,Cliente_2_66,219.4,recebido,Boleto,Contrato 2/2024,0.0
+2024-02-29,2000-01-01,Cliente_2_67,153.89,em aberto,Pix,Contrato 2/2024,
+2024-02-10,2000-01-01,Cliente_2_68,505.73,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_69,869.74,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_70,673.38,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-10,2024-02-06,Cliente_2_71,748.2,recebido,Pix,Contrato 2/2024,-4.0
+2024-02-10,2000-01-01,Cliente_2_72,339.37,em aberto,Boleto,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_73,231.25,em aberto,Boleto,Contrato 2/2024,
+2024-02-20,2024-02-20,Cliente_2_74,297.57,recebido,Pix,Contrato 2/2024,0.0
+2024-02-20,2024-02-29,Cliente_2_75,165.41,recebido,Cartão de Crédito,Contrato 2/2024,9.0
+2024-02-20,2024-02-18,Cliente_2_76,841.19,recebido,Pix,Contrato 2/2024,-2.0
+2024-02-20,2024-02-27,Cliente_2_77,139.01,recebido,Boleto,Contrato 2/2024,7.0
+2024-02-20,2024-02-15,Cliente_2_78,536.2,recebido,Boleto,Contrato 2/2024,-5.0
+2024-02-05,2000-01-01,Cliente_2_79,239.91,em aberto,Boleto,Contrato 2/2024,
+2024-02-20,2000-01-01,Cliente_2_80,833.64,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-29,2024-03-10,Cliente_2_81,553.67,recebido,Boleto,Contrato 2/2024,10.0
+2024-02-05,2000-01-01,Cliente_2_82,981.37,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-29,2000-01-01,Cliente_2_83,123.49,em aberto,Boleto,Contrato 2/2024,
+2024-02-20,2024-02-10,Cliente_2_84,380.12,recebido,Cartão de Crédito,Contrato 2/2024,-10.0
+2024-02-20,2000-01-01,Cliente_2_85,333.97,em aberto,Pix,Contrato 2/2024,
+2024-02-10,2024-02-11,Cliente_2_86,710.48,recebido,Cartão de Crédito,Contrato 2/2024,1.0
+2024-02-05,2000-01-01,Cliente_2_87,497.73,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-20,2000-01-01,Cliente_2_88,905.93,em aberto,Pix,Contrato 2/2024,
+2024-02-20,2000-01-01,Cliente_2_89,163.09,em aberto,Pix,Contrato 2/2024,
+2024-02-29,2024-02-27,Cliente_2_90,390.15,recebido,Pix,Contrato 2/2024,-2.0
+2024-02-05,2000-01-01,Cliente_2_91,317.9,em aberto,Pix,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_92,670.16,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_93,615.63,em aberto,Boleto,Contrato 2/2024,
+2024-02-20,2024-03-04,Cliente_2_94,768.44,recebido,Pix,Contrato 2/2024,13.0
+2024-02-29,2024-02-25,Cliente_2_95,624.18,recebido,Cartão de Crédito,Contrato 2/2024,-4.0
+2024-02-29,2000-01-01,Cliente_2_96,995.63,em aberto,Pix,Contrato 2/2024,
+2024-02-10,2024-02-10,Cliente_2_97,954.44,recebido,Boleto,Contrato 2/2024,0.0
+2024-02-10,2000-01-01,Cliente_2_98,841.81,em aberto,Pix,Contrato 2/2024,
+2024-02-05,2024-02-01,Cliente_2_99,568.39,recebido,Pix,Contrato 2/2024,-4.0
+2024-02-05,2000-01-01,Cliente_2_100,249.04,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-10,2000-01-01,Cliente_2_101,994.95,em aberto,Boleto,Contrato 2/2024,
+2024-02-05,2024-02-05,Cliente_2_102,869.53,recebido,Boleto,Contrato 2/2024,0.0
+2024-02-05,2000-01-01,Cliente_2_103,693.53,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-29,2024-03-04,Cliente_2_104,266.6,recebido,Cartão de Crédito,Contrato 2/2024,4.0
+2024-02-29,2024-02-29,Cliente_2_105,905.3,recebido,Pix,Contrato 2/2024,0.0
+2024-02-05,2000-01-01,Cliente_2_106,204.03,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_107,848.72,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-20,2000-01-01,Cliente_2_108,336.73,em aberto,Pix,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_109,489.18,em aberto,Pix,Contrato 2/2024,
+2024-02-29,2024-02-29,Cliente_2_110,844.43,recebido,Cartão de Crédito,Contrato 2/2024,0.0
+2024-02-05,2000-01-01,Cliente_2_111,756.57,em aberto,Pix,Contrato 2/2024,
+2024-02-05,2024-02-05,Cliente_2_112,523.37,recebido,Boleto,Contrato 2/2024,0.0
+2024-02-20,2024-02-21,Cliente_2_113,506.31,recebido,Boleto,Contrato 2/2024,1.0
+2024-02-05,2000-01-01,Cliente_2_114,169.65,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-29,2000-01-01,Cliente_2_115,955.98,em aberto,Boleto,Contrato 2/2024,
+2024-02-10,2024-02-10,Cliente_2_116,989.74,recebido,Boleto,Contrato 2/2024,0.0
+2024-02-29,2024-02-28,Cliente_2_117,576.64,recebido,Pix,Contrato 2/2024,-1.0
+2024-02-10,2024-01-31,Cliente_2_118,579.43,recebido,Boleto,Contrato 2/2024,-10.0
+2024-02-05,2000-01-01,Cliente_2_119,236.33,em aberto,Pix,Contrato 2/2024,
+2024-02-10,2000-01-01,Cliente_2_120,464.14,em aberto,Pix,Contrato 2/2024,
+2024-02-05,2024-02-05,Cliente_2_121,879.29,recebido,Boleto,Contrato 2/2024,0.0
+2024-02-20,2000-01-01,Cliente_2_122,226.57,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-20,2000-01-01,Cliente_2_123,534.86,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-29,2000-01-01,Cliente_2_124,862.59,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-10,2000-01-01,Cliente_2_125,235.74,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-20,2000-01-01,Cliente_2_126,647.07,em aberto,Pix,Contrato 2/2024,
+2024-02-10,2024-02-13,Cliente_2_127,906.86,recebido,Boleto,Contrato 2/2024,3.0
+2024-02-05,2000-01-01,Cliente_2_128,377.62,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-20,2024-02-18,Cliente_2_129,207.68,recebido,Boleto,Contrato 2/2024,-2.0
+2024-02-10,2024-02-24,Cliente_2_130,514.85,recebido,Pix,Contrato 2/2024,14.0
+2024-02-10,2024-02-21,Cliente_2_131,649.99,recebido,Boleto,Contrato 2/2024,11.0
+2024-02-20,2000-01-01,Cliente_2_132,335.99,em aberto,Pix,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_133,991.53,em aberto,Pix,Contrato 2/2024,
+2024-02-05,2024-01-28,Cliente_2_134,707.93,recebido,Cartão de Crédito,Contrato 2/2024,-8.0
+2024-02-10,2024-02-10,Cliente_2_135,469.35,recebido,Boleto,Contrato 2/2024,0.0
+2024-02-20,2000-01-01,Cliente_2_136,233.02,em aberto,Boleto,Contrato 2/2024,
+2024-02-10,2024-02-12,Cliente_2_137,343.92,recebido,Pix,Contrato 2/2024,2.0
+2024-02-20,2024-02-20,Cliente_2_138,988.39,recebido,Boleto,Contrato 2/2024,0.0
+2024-02-10,2000-01-01,Cliente_2_139,941.18,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_140,922.09,em aberto,Cartão de Crédito,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_141,550.47,em aberto,Pix,Contrato 2/2024,
+2024-02-29,2000-01-01,Cliente_2_142,575.23,em aberto,Pix,Contrato 2/2024,
+2024-02-05,2024-02-03,Cliente_2_143,466.33,recebido,Boleto,Contrato 2/2024,-2.0
+2024-02-10,2024-02-10,Cliente_2_144,869.91,recebido,Boleto,Contrato 2/2024,0.0
+2024-02-10,2000-01-01,Cliente_2_145,472.39,em aberto,Pix,Contrato 2/2024,
+2024-02-05,2000-01-01,Cliente_2_146,388.2,em aberto,Pix,Contrato 2/2024,
+2024-03-10,2024-03-10,Cliente_3_1,874.18,recebido,Pix,Contrato 3/2024,0.0
+2024-03-20,2024-03-18,Cliente_3_2,408.73,recebido,Cartão de Crédito,Contrato 3/2024,-2.0
+2024-03-30,2000-01-01,Cliente_3_3,332.54,em aberto,Pix,Contrato 3/2024,
+2024-03-10,2000-01-01,Cliente_3_4,912.52,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-30,2000-01-01,Cliente_3_5,954.17,em aberto,Pix,Contrato 3/2024,
+2024-03-10,2024-03-10,Cliente_3_6,950.27,recebido,Pix,Contrato 3/2024,0.0
+2024-03-30,2024-03-23,Cliente_3_7,289.59,recebido,Pix,Contrato 3/2024,-7.0
+2024-03-10,2000-01-01,Cliente_3_8,204.64,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-20,2024-03-20,Cliente_3_9,152.85,recebido,Cartão de Crédito,Contrato 3/2024,0.0
+2024-03-10,2024-03-16,Cliente_3_10,180.58,recebido,Cartão de Crédito,Contrato 3/2024,6.0
+2024-03-05,2000-01-01,Cliente_3_11,321.99,em aberto,Pix,Contrato 3/2024,
+2024-03-30,2024-03-30,Cliente_3_12,170.47,recebido,Boleto,Contrato 3/2024,0.0
+2024-03-20,2000-01-01,Cliente_3_13,905.38,em aberto,Boleto,Contrato 3/2024,
+2024-03-05,2024-03-19,Cliente_3_14,799.42,recebido,Pix,Contrato 3/2024,14.0
+2024-03-20,2024-03-20,Cliente_3_15,691.35,recebido,Cartão de Crédito,Contrato 3/2024,0.0
+2024-03-20,2024-03-20,Cliente_3_16,540.0,recebido,Cartão de Crédito,Contrato 3/2024,0.0
+2024-03-20,2000-01-01,Cliente_3_17,393.36,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-30,2000-01-01,Cliente_3_18,392.47,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-30,2024-04-10,Cliente_3_19,393.99,recebido,Boleto,Contrato 3/2024,11.0
+2024-03-20,2000-01-01,Cliente_3_20,803.05,em aberto,Pix,Contrato 3/2024,
+2024-03-30,2000-01-01,Cliente_3_21,945.45,em aberto,Boleto,Contrato 3/2024,
+2024-03-30,2024-03-30,Cliente_3_22,919.81,recebido,Pix,Contrato 3/2024,0.0
+2024-03-20,2000-01-01,Cliente_3_23,803.48,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-20,2000-01-01,Cliente_3_24,152.44,em aberto,Boleto,Contrato 3/2024,
+2024-03-30,2024-04-01,Cliente_3_25,724.93,recebido,Pix,Contrato 3/2024,2.0
+2024-03-10,2024-03-05,Cliente_3_26,403.09,recebido,Cartão de Crédito,Contrato 3/2024,-5.0
+2024-03-05,2000-01-01,Cliente_3_27,786.17,em aberto,Boleto,Contrato 3/2024,
+2024-03-05,2024-03-05,Cliente_3_28,392.04,recebido,Pix,Contrato 3/2024,0.0
+2024-03-05,2000-01-01,Cliente_3_29,494.37,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-20,2024-03-20,Cliente_3_30,589.59,recebido,Pix,Contrato 3/2024,0.0
+2024-03-10,2024-03-12,Cliente_3_31,898.04,recebido,Cartão de Crédito,Contrato 3/2024,2.0
+2024-03-20,2024-03-20,Cliente_3_32,407.87,recebido,Boleto,Contrato 3/2024,0.0
+2024-03-30,2024-04-14,Cliente_3_33,112.63,recebido,Cartão de Crédito,Contrato 3/2024,15.0
+2024-03-10,2024-03-16,Cliente_3_34,218.4,recebido,Pix,Contrato 3/2024,6.0
+2024-03-20,2024-03-17,Cliente_3_35,135.34,recebido,Pix,Contrato 3/2024,-3.0
+2024-03-10,2024-03-06,Cliente_3_36,576.49,recebido,Pix,Contrato 3/2024,-4.0
+2024-03-05,2000-01-01,Cliente_3_37,619.26,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-10,2000-01-01,Cliente_3_38,885.12,em aberto,Boleto,Contrato 3/2024,
+2024-03-30,2024-04-14,Cliente_3_39,965.63,recebido,Boleto,Contrato 3/2024,15.0
+2024-03-20,2024-03-20,Cliente_3_40,143.33,recebido,Cartão de Crédito,Contrato 3/2024,0.0
+2024-03-10,2000-01-01,Cliente_3_41,489.87,em aberto,Pix,Contrato 3/2024,
+2024-03-30,2000-01-01,Cliente_3_42,571.22,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-10,2000-01-01,Cliente_3_43,653.45,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-05,2000-01-01,Cliente_3_44,641.09,em aberto,Pix,Contrato 3/2024,
+2024-03-30,2000-01-01,Cliente_3_45,543.34,em aberto,Pix,Contrato 3/2024,
+2024-03-05,2024-03-05,Cliente_3_46,891.31,recebido,Pix,Contrato 3/2024,0.0
+2024-03-20,2024-03-20,Cliente_3_47,485.43,recebido,Boleto,Contrato 3/2024,0.0
+2024-03-10,2024-03-09,Cliente_3_48,680.23,recebido,Boleto,Contrato 3/2024,-1.0
+2024-03-10,2000-01-01,Cliente_3_49,751.65,em aberto,Boleto,Contrato 3/2024,
+2024-03-30,2024-04-02,Cliente_3_50,888.12,recebido,Boleto,Contrato 3/2024,3.0
+2024-03-05,2024-03-12,Cliente_3_51,387.0,recebido,Boleto,Contrato 3/2024,7.0
+2024-03-30,2024-03-30,Cliente_3_52,290.56,recebido,Pix,Contrato 3/2024,0.0
+2024-03-20,2000-01-01,Cliente_3_53,386.24,em aberto,Pix,Contrato 3/2024,
+2024-03-30,2000-01-01,Cliente_3_54,643.9,em aberto,Pix,Contrato 3/2024,
+2024-03-20,2000-01-01,Cliente_3_55,470.14,em aberto,Pix,Contrato 3/2024,
+2024-03-05,2024-03-05,Cliente_3_56,888.4,recebido,Boleto,Contrato 3/2024,0.0
+2024-03-05,2024-03-05,Cliente_3_57,936.23,recebido,Pix,Contrato 3/2024,0.0
+2024-03-05,2000-01-01,Cliente_3_58,435.97,em aberto,Boleto,Contrato 3/2024,
+2024-03-05,2024-03-07,Cliente_3_59,722.5,recebido,Pix,Contrato 3/2024,2.0
+2024-03-30,2024-03-30,Cliente_3_60,203.61,recebido,Pix,Contrato 3/2024,0.0
+2024-03-05,2024-03-02,Cliente_3_61,891.95,recebido,Cartão de Crédito,Contrato 3/2024,-3.0
+2024-03-20,2024-03-20,Cliente_3_62,887.28,recebido,Cartão de Crédito,Contrato 3/2024,0.0
+2024-03-20,2024-03-15,Cliente_3_63,506.5,recebido,Cartão de Crédito,Contrato 3/2024,-5.0
+2024-03-20,2024-03-24,Cliente_3_64,564.76,recebido,Boleto,Contrato 3/2024,4.0
+2024-03-30,2024-03-30,Cliente_3_65,419.88,recebido,Cartão de Crédito,Contrato 3/2024,0.0
+2024-03-30,2000-01-01,Cliente_3_66,139.73,em aberto,Boleto,Contrato 3/2024,
+2024-03-10,2000-01-01,Cliente_3_67,594.96,em aberto,Boleto,Contrato 3/2024,
+2024-03-10,2024-03-10,Cliente_3_68,645.43,recebido,Pix,Contrato 3/2024,0.0
+2024-03-20,2024-03-16,Cliente_3_69,941.39,recebido,Boleto,Contrato 3/2024,-4.0
+2024-03-05,2024-03-12,Cliente_3_70,137.85,recebido,Boleto,Contrato 3/2024,7.0
+2024-03-30,2000-01-01,Cliente_3_71,462.14,em aberto,Boleto,Contrato 3/2024,
+2024-03-10,2000-01-01,Cliente_3_72,479.4,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-10,2024-03-12,Cliente_3_73,980.2,recebido,Cartão de Crédito,Contrato 3/2024,2.0
+2024-03-05,2000-01-01,Cliente_3_74,916.16,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-30,2000-01-01,Cliente_3_75,280.96,em aberto,Pix,Contrato 3/2024,
+2024-03-10,2000-01-01,Cliente_3_76,479.26,em aberto,Pix,Contrato 3/2024,
+2024-03-05,2024-03-16,Cliente_3_77,218.34,recebido,Boleto,Contrato 3/2024,11.0
+2024-03-20,2000-01-01,Cliente_3_78,474.58,em aberto,Boleto,Contrato 3/2024,
+2024-03-10,2000-01-01,Cliente_3_79,482.09,em aberto,Pix,Contrato 3/2024,
+2024-03-10,2024-03-10,Cliente_3_80,308.72,recebido,Pix,Contrato 3/2024,0.0
+2024-03-10,2024-03-10,Cliente_3_81,894.64,recebido,Boleto,Contrato 3/2024,0.0
+2024-03-20,2024-03-30,Cliente_3_82,205.13,recebido,Cartão de Crédito,Contrato 3/2024,10.0
+2024-03-20,2000-01-01,Cliente_3_83,733.05,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-05,2000-01-01,Cliente_3_84,284.5,em aberto,Boleto,Contrato 3/2024,
+2024-03-10,2000-01-01,Cliente_3_85,571.82,em aberto,Pix,Contrato 3/2024,
+2024-03-05,2000-01-01,Cliente_3_86,181.96,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-05,2000-01-01,Cliente_3_87,188.9,em aberto,Pix,Contrato 3/2024,
+2024-03-05,2000-01-01,Cliente_3_88,367.03,em aberto,Pix,Contrato 3/2024,
+2024-03-10,2024-03-10,Cliente_3_89,919.75,recebido,Pix,Contrato 3/2024,0.0
+2024-03-05,2024-03-02,Cliente_3_90,861.97,recebido,Boleto,Contrato 3/2024,-3.0
+2024-03-10,2024-03-03,Cliente_3_91,744.23,recebido,Pix,Contrato 3/2024,-7.0
+2024-03-05,2000-01-01,Cliente_3_92,666.6,em aberto,Boleto,Contrato 3/2024,
+2024-03-30,2000-01-01,Cliente_3_93,487.18,em aberto,Pix,Contrato 3/2024,
+2024-03-20,2000-01-01,Cliente_3_94,881.28,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-20,2024-03-22,Cliente_3_95,698.62,recebido,Cartão de Crédito,Contrato 3/2024,2.0
+2024-03-05,2024-03-15,Cliente_3_96,163.56,recebido,Boleto,Contrato 3/2024,10.0
+2024-03-20,2000-01-01,Cliente_3_97,111.29,em aberto,Boleto,Contrato 3/2024,
+2024-03-30,2024-03-30,Cliente_3_98,562.4,recebido,Cartão de Crédito,Contrato 3/2024,0.0
+2024-03-10,2000-01-01,Cliente_3_99,736.08,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-10,2000-01-01,Cliente_3_100,130.28,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-30,2000-01-01,Cliente_3_101,310.67,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-30,2000-01-01,Cliente_3_102,434.87,em aberto,Boleto,Contrato 3/2024,
+2024-03-30,2024-03-30,Cliente_3_103,708.25,recebido,Boleto,Contrato 3/2024,0.0
+2024-03-20,2000-01-01,Cliente_3_104,206.02,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-10,2000-01-01,Cliente_3_105,256.86,em aberto,Boleto,Contrato 3/2024,
+2024-03-20,2024-04-01,Cliente_3_106,109.43,recebido,Cartão de Crédito,Contrato 3/2024,12.0
+2024-03-30,2024-03-30,Cliente_3_107,851.32,recebido,Cartão de Crédito,Contrato 3/2024,0.0
+2024-03-05,2000-01-01,Cliente_3_108,338.18,em aberto,Pix,Contrato 3/2024,
+2024-03-30,2024-03-30,Cliente_3_109,326.32,recebido,Cartão de Crédito,Contrato 3/2024,0.0
+2024-03-30,2024-04-08,Cliente_3_110,681.3,recebido,Cartão de Crédito,Contrato 3/2024,9.0
+2024-03-10,2000-01-01,Cliente_3_111,748.87,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-20,2024-03-20,Cliente_3_112,201.73,recebido,Boleto,Contrato 3/2024,0.0
+2024-03-05,2000-01-01,Cliente_3_113,823.32,em aberto,Boleto,Contrato 3/2024,
+2024-03-30,2024-03-20,Cliente_3_114,962.0,recebido,Boleto,Contrato 3/2024,-10.0
+2024-03-30,2024-03-29,Cliente_3_115,482.75,recebido,Cartão de Crédito,Contrato 3/2024,-1.0
+2024-03-30,2024-03-30,Cliente_3_116,695.54,recebido,Boleto,Contrato 3/2024,0.0
+2024-03-20,2024-03-11,Cliente_3_117,906.34,recebido,Cartão de Crédito,Contrato 3/2024,-9.0
+2024-03-10,2000-01-01,Cliente_3_118,542.72,em aberto,Boleto,Contrato 3/2024,
+2024-03-20,2000-01-01,Cliente_3_119,519.97,em aberto,Boleto,Contrato 3/2024,
+2024-03-30,2000-01-01,Cliente_3_120,584.55,em aberto,Pix,Contrato 3/2024,
+2024-03-20,2024-03-12,Cliente_3_121,201.96,recebido,Cartão de Crédito,Contrato 3/2024,-8.0
+2024-03-10,2024-03-10,Cliente_3_122,108.38,recebido,Boleto,Contrato 3/2024,0.0
+2024-03-30,2024-03-22,Cliente_3_123,177.95,recebido,Pix,Contrato 3/2024,-8.0
+2024-03-30,2000-01-01,Cliente_3_124,680.19,em aberto,Boleto,Contrato 3/2024,
+2024-03-05,2000-01-01,Cliente_3_125,219.86,em aberto,Boleto,Contrato 3/2024,
+2024-03-05,2024-03-13,Cliente_3_126,225.08,recebido,Cartão de Crédito,Contrato 3/2024,8.0
+2024-03-05,2024-02-29,Cliente_3_127,181.72,recebido,Boleto,Contrato 3/2024,-5.0
+2024-03-30,2024-03-30,Cliente_3_128,770.33,recebido,Cartão de Crédito,Contrato 3/2024,0.0
+2024-03-20,2000-01-01,Cliente_3_129,492.2,em aberto,Pix,Contrato 3/2024,
+2024-03-10,2024-03-24,Cliente_3_130,294.25,recebido,Cartão de Crédito,Contrato 3/2024,14.0
+2024-03-05,2024-03-05,Cliente_3_131,418.87,recebido,Pix,Contrato 3/2024,0.0
+2024-03-10,2024-03-03,Cliente_3_132,954.38,recebido,Boleto,Contrato 3/2024,-7.0
+2024-03-20,2000-01-01,Cliente_3_133,623.81,em aberto,Boleto,Contrato 3/2024,
+2024-03-20,2000-01-01,Cliente_3_134,714.19,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-30,2024-03-31,Cliente_3_135,646.18,recebido,Pix,Contrato 3/2024,1.0
+2024-03-10,2024-03-10,Cliente_3_136,329.01,recebido,Cartão de Crédito,Contrato 3/2024,0.0
+2024-03-30,2024-03-24,Cliente_3_137,548.06,recebido,Pix,Contrato 3/2024,-6.0
+2024-03-05,2000-01-01,Cliente_3_138,132.41,em aberto,Boleto,Contrato 3/2024,
+2024-03-10,2024-02-29,Cliente_3_139,988.49,recebido,Boleto,Contrato 3/2024,-10.0
+2024-03-10,2000-01-01,Cliente_3_140,576.56,em aberto,Boleto,Contrato 3/2024,
+2024-03-05,2000-01-01,Cliente_3_141,500.83,em aberto,Boleto,Contrato 3/2024,
+2024-03-20,2000-01-01,Cliente_3_142,720.53,em aberto,Pix,Contrato 3/2024,
+2024-03-05,2024-03-09,Cliente_3_143,759.51,recebido,Pix,Contrato 3/2024,4.0
+2024-03-10,2024-03-22,Cliente_3_144,763.27,recebido,Boleto,Contrato 3/2024,12.0
+2024-03-20,2000-01-01,Cliente_3_145,526.48,em aberto,Pix,Contrato 3/2024,
+2024-03-20,2000-01-01,Cliente_3_146,162.37,em aberto,Boleto,Contrato 3/2024,
+2024-03-10,2024-03-19,Cliente_3_147,210.63,recebido,Pix,Contrato 3/2024,9.0
+2024-03-30,2000-01-01,Cliente_3_148,578.81,em aberto,Boleto,Contrato 3/2024,
+2024-03-05,2024-03-05,Cliente_3_149,695.54,recebido,Cartão de Crédito,Contrato 3/2024,0.0
+2024-03-30,2000-01-01,Cliente_3_150,155.95,em aberto,Boleto,Contrato 3/2024,
+2024-03-10,2000-01-01,Cliente_3_151,824.27,em aberto,Cartão de Crédito,Contrato 3/2024,
+2024-03-10,2000-01-01,Cliente_3_152,164.33,em aberto,Pix,Contrato 3/2024,
+2024-04-10,2024-04-10,Cliente_4_1,557.04,recebido,Cartão de Crédito,Contrato 4/2024,0.0
+2024-04-05,2000-01-01,Cliente_4_2,498.72,em aberto,Pix,Contrato 4/2024,
+2024-04-05,2000-01-01,Cliente_4_3,300.42,em aberto,Boleto,Contrato 4/2024,
+2024-04-10,2024-04-10,Cliente_4_4,555.0,recebido,Boleto,Contrato 4/2024,0.0
+2024-04-10,2024-04-07,Cliente_4_5,396.15,recebido,Boleto,Contrato 4/2024,-3.0
+2024-04-20,2024-04-20,Cliente_4_6,225.11,recebido,Pix,Contrato 4/2024,0.0
+2024-04-20,2000-01-01,Cliente_4_7,368.69,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-30,2024-04-30,Cliente_4_8,548.01,recebido,Pix,Contrato 4/2024,0.0
+2024-04-20,2024-04-23,Cliente_4_9,716.88,recebido,Cartão de Crédito,Contrato 4/2024,3.0
+2024-04-30,2000-01-01,Cliente_4_10,408.01,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-30,2024-05-09,Cliente_4_11,109.16,recebido,Cartão de Crédito,Contrato 4/2024,9.0
+2024-04-20,2000-01-01,Cliente_4_12,223.58,em aberto,Pix,Contrato 4/2024,
+2024-04-10,2000-01-01,Cliente_4_13,199.47,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-10,2000-01-01,Cliente_4_14,437.63,em aberto,Boleto,Contrato 4/2024,
+2024-04-30,2024-04-30,Cliente_4_15,126.83,recebido,Pix,Contrato 4/2024,0.0
+2024-04-05,2024-04-05,Cliente_4_16,783.34,recebido,Cartão de Crédito,Contrato 4/2024,0.0
+2024-04-05,2000-01-01,Cliente_4_17,383.63,em aberto,Pix,Contrato 4/2024,
+2024-04-10,2024-04-09,Cliente_4_18,691.74,recebido,Cartão de Crédito,Contrato 4/2024,-1.0
+2024-04-20,2000-01-01,Cliente_4_19,923.05,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-05,2024-04-05,Cliente_4_20,381.67,recebido,Boleto,Contrato 4/2024,0.0
+2024-04-30,2024-04-30,Cliente_4_21,563.25,recebido,Pix,Contrato 4/2024,0.0
+2024-04-30,2000-01-01,Cliente_4_22,707.35,em aberto,Boleto,Contrato 4/2024,
+2024-04-05,2000-01-01,Cliente_4_23,409.29,em aberto,Pix,Contrato 4/2024,
+2024-04-30,2000-01-01,Cliente_4_24,470.24,em aberto,Boleto,Contrato 4/2024,
+2024-04-30,2024-05-08,Cliente_4_25,734.01,recebido,Boleto,Contrato 4/2024,8.0
+2024-04-10,2024-04-10,Cliente_4_26,893.43,recebido,Cartão de Crédito,Contrato 4/2024,0.0
+2024-04-20,2000-01-01,Cliente_4_27,541.1,em aberto,Pix,Contrato 4/2024,
+2024-04-30,2024-04-30,Cliente_4_28,688.05,recebido,Boleto,Contrato 4/2024,0.0
+2024-04-20,2000-01-01,Cliente_4_29,584.36,em aberto,Boleto,Contrato 4/2024,
+2024-04-05,2000-01-01,Cliente_4_30,691.81,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-30,2000-01-01,Cliente_4_31,498.67,em aberto,Pix,Contrato 4/2024,
+2024-04-20,2024-05-03,Cliente_4_32,944.93,recebido,Pix,Contrato 4/2024,13.0
+2024-04-30,2024-04-30,Cliente_4_33,880.92,recebido,Pix,Contrato 4/2024,0.0
+2024-04-10,2024-04-06,Cliente_4_34,828.67,recebido,Pix,Contrato 4/2024,-4.0
+2024-04-30,2024-04-30,Cliente_4_35,988.62,recebido,Cartão de Crédito,Contrato 4/2024,0.0
+2024-04-10,2000-01-01,Cliente_4_36,414.89,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-05,2024-04-07,Cliente_4_37,266.16,recebido,Cartão de Crédito,Contrato 4/2024,2.0
+2024-04-10,2000-01-01,Cliente_4_38,103.04,em aberto,Boleto,Contrato 4/2024,
+2024-04-30,2000-01-01,Cliente_4_39,803.47,em aberto,Pix,Contrato 4/2024,
+2024-04-30,2000-01-01,Cliente_4_40,367.76,em aberto,Pix,Contrato 4/2024,
+2024-04-10,2024-04-08,Cliente_4_41,462.07,recebido,Pix,Contrato 4/2024,-2.0
+2024-04-30,2024-04-22,Cliente_4_42,444.22,recebido,Boleto,Contrato 4/2024,-8.0
+2024-04-10,2024-04-19,Cliente_4_43,614.07,recebido,Boleto,Contrato 4/2024,9.0
+2024-04-05,2000-01-01,Cliente_4_44,489.15,em aberto,Pix,Contrato 4/2024,
+2024-04-30,2024-04-30,Cliente_4_45,627.75,recebido,Boleto,Contrato 4/2024,0.0
+2024-04-05,2024-04-13,Cliente_4_46,408.41,recebido,Pix,Contrato 4/2024,8.0
+2024-04-20,2024-04-20,Cliente_4_47,221.77,recebido,Boleto,Contrato 4/2024,0.0
+2024-04-05,2000-01-01,Cliente_4_48,995.34,em aberto,Boleto,Contrato 4/2024,
+2024-04-05,2024-03-27,Cliente_4_49,864.42,recebido,Boleto,Contrato 4/2024,-9.0
+2024-04-05,2000-01-01,Cliente_4_50,429.35,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-05,2000-01-01,Cliente_4_51,765.82,em aberto,Boleto,Contrato 4/2024,
+2024-04-05,2000-01-01,Cliente_4_52,786.62,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-30,2024-05-13,Cliente_4_53,630.15,recebido,Cartão de Crédito,Contrato 4/2024,13.0
+2024-04-05,2000-01-01,Cliente_4_54,902.03,em aberto,Boleto,Contrato 4/2024,
+2024-04-05,2024-04-05,Cliente_4_55,591.19,recebido,Pix,Contrato 4/2024,0.0
+2024-04-20,2024-04-20,Cliente_4_56,223.71,recebido,Cartão de Crédito,Contrato 4/2024,0.0
+2024-04-10,2024-04-01,Cliente_4_57,347.16,recebido,Pix,Contrato 4/2024,-9.0
+2024-04-20,2024-04-15,Cliente_4_58,828.1,recebido,Pix,Contrato 4/2024,-5.0
+2024-04-20,2024-05-01,Cliente_4_59,284.06,recebido,Pix,Contrato 4/2024,11.0
+2024-04-05,2000-01-01,Cliente_4_60,440.66,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-05,2000-01-01,Cliente_4_61,808.78,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-05,2024-04-13,Cliente_4_62,773.81,recebido,Cartão de Crédito,Contrato 4/2024,8.0
+2024-04-05,2024-04-14,Cliente_4_63,626.36,recebido,Cartão de Crédito,Contrato 4/2024,9.0
+2024-04-10,2000-01-01,Cliente_4_64,910.23,em aberto,Boleto,Contrato 4/2024,
+2024-04-05,2024-04-19,Cliente_4_65,538.64,recebido,Boleto,Contrato 4/2024,14.0
+2024-04-30,2000-01-01,Cliente_4_66,863.24,em aberto,Boleto,Contrato 4/2024,
+2024-04-20,2000-01-01,Cliente_4_67,934.25,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-10,2000-01-01,Cliente_4_68,372.27,em aberto,Boleto,Contrato 4/2024,
+2024-04-30,2000-01-01,Cliente_4_69,297.06,em aberto,Pix,Contrato 4/2024,
+2024-04-05,2000-01-01,Cliente_4_70,807.61,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-10,2024-04-16,Cliente_4_71,416.88,recebido,Pix,Contrato 4/2024,6.0
+2024-04-10,2024-04-22,Cliente_4_72,307.74,recebido,Pix,Contrato 4/2024,12.0
+2024-04-20,2024-04-12,Cliente_4_73,725.63,recebido,Pix,Contrato 4/2024,-8.0
+2024-04-05,2000-01-01,Cliente_4_74,941.96,em aberto,Pix,Contrato 4/2024,
+2024-04-30,2000-01-01,Cliente_4_75,378.17,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-20,2024-04-13,Cliente_4_76,687.49,recebido,Cartão de Crédito,Contrato 4/2024,-7.0
+2024-04-20,2024-04-20,Cliente_4_77,542.72,recebido,Boleto,Contrato 4/2024,0.0
+2024-04-30,2024-04-30,Cliente_4_78,789.03,recebido,Cartão de Crédito,Contrato 4/2024,0.0
+2024-04-10,2000-01-01,Cliente_4_79,953.61,em aberto,Pix,Contrato 4/2024,
+2024-04-05,2024-04-05,Cliente_4_80,918.56,recebido,Pix,Contrato 4/2024,0.0
+2024-04-20,2000-01-01,Cliente_4_81,871.46,em aberto,Boleto,Contrato 4/2024,
+2024-04-10,2000-01-01,Cliente_4_82,208.24,em aberto,Pix,Contrato 4/2024,
+2024-04-20,2000-01-01,Cliente_4_83,545.75,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-30,2000-01-01,Cliente_4_84,632.58,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-05,2000-01-01,Cliente_4_85,205.69,em aberto,Pix,Contrato 4/2024,
+2024-04-30,2024-05-14,Cliente_4_86,266.15,recebido,Cartão de Crédito,Contrato 4/2024,14.0
+2024-04-10,2024-04-22,Cliente_4_87,298.76,recebido,Boleto,Contrato 4/2024,12.0
+2024-04-10,2000-01-01,Cliente_4_88,448.77,em aberto,Boleto,Contrato 4/2024,
+2024-04-30,2024-04-30,Cliente_4_89,498.57,recebido,Pix,Contrato 4/2024,0.0
+2024-04-10,2024-04-10,Cliente_4_90,754.08,recebido,Boleto,Contrato 4/2024,0.0
+2024-04-20,2000-01-01,Cliente_4_91,698.89,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-20,2024-04-27,Cliente_4_92,734.48,recebido,Pix,Contrato 4/2024,7.0
+2024-04-20,2000-01-01,Cliente_4_93,201.08,em aberto,Boleto,Contrato 4/2024,
+2024-04-30,2024-05-11,Cliente_4_94,680.79,recebido,Boleto,Contrato 4/2024,11.0
+2024-04-10,2000-01-01,Cliente_4_95,100.07,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-05,2024-03-30,Cliente_4_96,439.3,recebido,Boleto,Contrato 4/2024,-6.0
+2024-04-30,2000-01-01,Cliente_4_97,308.81,em aberto,Boleto,Contrato 4/2024,
+2024-04-20,2024-05-01,Cliente_4_98,720.79,recebido,Cartão de Crédito,Contrato 4/2024,11.0
+2024-04-20,2000-01-01,Cliente_4_99,922.76,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-30,2000-01-01,Cliente_4_100,183.29,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-20,2024-04-20,Cliente_4_101,179.86,recebido,Pix,Contrato 4/2024,0.0
+2024-04-30,2024-05-01,Cliente_4_102,711.31,recebido,Boleto,Contrato 4/2024,1.0
+2024-04-10,2000-01-01,Cliente_4_103,392.99,em aberto,Boleto,Contrato 4/2024,
+2024-04-30,2024-04-30,Cliente_4_104,586.61,recebido,Pix,Contrato 4/2024,0.0
+2024-04-05,2000-01-01,Cliente_4_105,925.74,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-05,2000-01-01,Cliente_4_106,615.54,em aberto,Boleto,Contrato 4/2024,
+2024-04-10,2000-01-01,Cliente_4_107,197.29,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-10,2024-04-24,Cliente_4_108,590.09,recebido,Boleto,Contrato 4/2024,14.0
+2024-04-20,2000-01-01,Cliente_4_109,607.73,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-05,2000-01-01,Cliente_4_110,589.09,em aberto,Pix,Contrato 4/2024,
+2024-04-05,2024-04-01,Cliente_4_111,288.39,recebido,Pix,Contrato 4/2024,-4.0
+2024-04-20,2000-01-01,Cliente_4_112,205.01,em aberto,Pix,Contrato 4/2024,
+2024-04-10,2000-01-01,Cliente_4_113,419.14,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-20,2024-05-03,Cliente_4_114,683.68,recebido,Pix,Contrato 4/2024,13.0
+2024-04-10,2000-01-01,Cliente_4_115,937.63,em aberto,Boleto,Contrato 4/2024,
+2024-04-10,2024-04-17,Cliente_4_116,681.43,recebido,Cartão de Crédito,Contrato 4/2024,7.0
+2024-04-20,2024-04-20,Cliente_4_117,471.58,recebido,Boleto,Contrato 4/2024,0.0
+2024-04-20,2000-01-01,Cliente_4_118,393.29,em aberto,Boleto,Contrato 4/2024,
+2024-04-05,2024-03-29,Cliente_4_119,947.34,recebido,Pix,Contrato 4/2024,-7.0
+2024-04-30,2024-04-30,Cliente_4_120,513.84,recebido,Cartão de Crédito,Contrato 4/2024,0.0
+2024-04-10,2024-04-19,Cliente_4_121,344.99,recebido,Boleto,Contrato 4/2024,9.0
+2024-04-20,2024-04-20,Cliente_4_122,221.97,recebido,Cartão de Crédito,Contrato 4/2024,0.0
+2024-04-05,2000-01-01,Cliente_4_123,889.41,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-10,2000-01-01,Cliente_4_124,784.28,em aberto,Pix,Contrato 4/2024,
+2024-04-20,2000-01-01,Cliente_4_125,759.03,em aberto,Boleto,Contrato 4/2024,
+2024-04-10,2024-04-01,Cliente_4_126,750.87,recebido,Pix,Contrato 4/2024,-9.0
+2024-04-30,2024-04-30,Cliente_4_127,789.46,recebido,Cartão de Crédito,Contrato 4/2024,0.0
+2024-04-10,2024-04-10,Cliente_4_128,752.4,recebido,Pix,Contrato 4/2024,0.0
+2024-04-05,2000-01-01,Cliente_4_129,147.29,em aberto,Boleto,Contrato 4/2024,
+2024-04-30,2024-05-07,Cliente_4_130,152.05,recebido,Cartão de Crédito,Contrato 4/2024,7.0
+2024-04-30,2024-04-22,Cliente_4_131,142.0,recebido,Pix,Contrato 4/2024,-8.0
+2024-04-20,2000-01-01,Cliente_4_132,880.18,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-05,2024-04-05,Cliente_4_133,934.21,recebido,Boleto,Contrato 4/2024,0.0
+2024-04-05,2000-01-01,Cliente_4_134,434.09,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-20,2000-01-01,Cliente_4_135,462.89,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-30,2000-01-01,Cliente_4_136,466.55,em aberto,Boleto,Contrato 4/2024,
+2024-04-05,2000-01-01,Cliente_4_137,357.11,em aberto,Boleto,Contrato 4/2024,
+2024-04-05,2024-04-13,Cliente_4_138,953.1,recebido,Pix,Contrato 4/2024,8.0
+2024-04-20,2000-01-01,Cliente_4_139,739.63,em aberto,Pix,Contrato 4/2024,
+2024-04-10,2000-01-01,Cliente_4_140,453.06,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-20,2000-01-01,Cliente_4_141,880.47,em aberto,Boleto,Contrato 4/2024,
+2024-04-30,2000-01-01,Cliente_4_142,145.78,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-10,2024-04-10,Cliente_4_143,296.13,recebido,Pix,Contrato 4/2024,0.0
+2024-04-30,2000-01-01,Cliente_4_144,450.54,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-10,2024-04-07,Cliente_4_145,881.37,recebido,Pix,Contrato 4/2024,-3.0
+2024-04-05,2024-04-11,Cliente_4_146,816.85,recebido,Cartão de Crédito,Contrato 4/2024,6.0
+2024-04-20,2000-01-01,Cliente_4_147,728.34,em aberto,Boleto,Contrato 4/2024,
+2024-04-30,2024-04-30,Cliente_4_148,207.82,recebido,Boleto,Contrato 4/2024,0.0
+2024-04-30,2024-04-30,Cliente_4_149,366.83,recebido,Cartão de Crédito,Contrato 4/2024,0.0
+2024-04-05,2000-01-01,Cliente_4_150,486.6,em aberto,Boleto,Contrato 4/2024,
+2024-04-10,2024-04-09,Cliente_4_151,867.8,recebido,Boleto,Contrato 4/2024,-1.0
+2024-04-05,2000-01-01,Cliente_4_152,173.85,em aberto,Cartão de Crédito,Contrato 4/2024,
+2024-04-20,2024-04-19,Cliente_4_153,155.77,recebido,Boleto,Contrato 4/2024,-1.0
+2024-05-10,2024-05-10,Cliente_5_1,631.32,recebido,Boleto,Contrato 5/2024,0.0
+2024-05-05,2000-01-01,Cliente_5_2,608.83,em aberto,Boleto,Contrato 5/2024,
+2024-05-30,2024-05-30,Cliente_5_3,833.42,recebido,Pix,Contrato 5/2024,0.0
+2024-05-10,2024-05-23,Cliente_5_4,353.01,recebido,Boleto,Contrato 5/2024,13.0
+2024-05-30,2024-06-04,Cliente_5_5,958.98,recebido,Cartão de Crédito,Contrato 5/2024,5.0
+2024-05-05,2000-01-01,Cliente_5_6,362.45,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-30,2024-06-11,Cliente_5_7,753.15,recebido,Boleto,Contrato 5/2024,12.0
+2024-05-30,2000-01-01,Cliente_5_8,979.38,em aberto,Pix,Contrato 5/2024,
+2024-05-20,2000-01-01,Cliente_5_9,160.76,em aberto,Pix,Contrato 5/2024,
+2024-05-05,2000-01-01,Cliente_5_10,981.16,em aberto,Pix,Contrato 5/2024,
+2024-05-10,2024-05-08,Cliente_5_11,858.41,recebido,Cartão de Crédito,Contrato 5/2024,-2.0
+2024-05-30,2000-01-01,Cliente_5_12,725.56,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-30,2024-05-24,Cliente_5_13,344.51,recebido,Boleto,Contrato 5/2024,-6.0
+2024-05-20,2024-05-20,Cliente_5_14,582.5,recebido,Pix,Contrato 5/2024,0.0
+2024-05-30,2000-01-01,Cliente_5_15,190.68,em aberto,Boleto,Contrato 5/2024,
+2024-05-20,2000-01-01,Cliente_5_16,259.23,em aberto,Boleto,Contrato 5/2024,
+2024-05-20,2000-01-01,Cliente_5_17,910.35,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-05,2024-05-05,Cliente_5_18,925.83,recebido,Boleto,Contrato 5/2024,0.0
+2024-05-10,2000-01-01,Cliente_5_19,103.7,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-30,2024-05-30,Cliente_5_20,879.15,recebido,Boleto,Contrato 5/2024,0.0
+2024-05-10,2024-05-05,Cliente_5_21,583.05,recebido,Pix,Contrato 5/2024,-5.0
+2024-05-10,2024-05-10,Cliente_5_22,421.56,recebido,Pix,Contrato 5/2024,0.0
+2024-05-05,2024-04-25,Cliente_5_23,981.1,recebido,Boleto,Contrato 5/2024,-10.0
+2024-05-10,2024-05-02,Cliente_5_24,178.81,recebido,Pix,Contrato 5/2024,-8.0
+2024-05-05,2000-01-01,Cliente_5_25,182.18,em aberto,Boleto,Contrato 5/2024,
+2024-05-10,2024-05-01,Cliente_5_26,332.11,recebido,Pix,Contrato 5/2024,-9.0
+2024-05-30,2000-01-01,Cliente_5_27,187.09,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-30,2000-01-01,Cliente_5_28,505.25,em aberto,Pix,Contrato 5/2024,
+2024-05-20,2024-05-11,Cliente_5_29,200.48,recebido,Cartão de Crédito,Contrato 5/2024,-9.0
+2024-05-20,2024-05-26,Cliente_5_30,250.19,recebido,Boleto,Contrato 5/2024,6.0
+2024-05-30,2000-01-01,Cliente_5_31,419.25,em aberto,Pix,Contrato 5/2024,
+2024-05-05,2000-01-01,Cliente_5_32,330.75,em aberto,Pix,Contrato 5/2024,
+2024-05-30,2000-01-01,Cliente_5_33,350.08,em aberto,Boleto,Contrato 5/2024,
+2024-05-10,2024-05-12,Cliente_5_34,382.09,recebido,Cartão de Crédito,Contrato 5/2024,2.0
+2024-05-20,2024-05-23,Cliente_5_35,776.16,recebido,Cartão de Crédito,Contrato 5/2024,3.0
+2024-05-30,2000-01-01,Cliente_5_36,830.51,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-30,2024-05-25,Cliente_5_37,658.6,recebido,Boleto,Contrato 5/2024,-5.0
+2024-05-20,2000-01-01,Cliente_5_38,446.76,em aberto,Pix,Contrato 5/2024,
+2024-05-10,2000-01-01,Cliente_5_39,113.15,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-30,2000-01-01,Cliente_5_40,208.12,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-30,2024-05-30,Cliente_5_41,881.25,recebido,Cartão de Crédito,Contrato 5/2024,0.0
+2024-05-05,2000-01-01,Cliente_5_42,170.98,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-30,2000-01-01,Cliente_5_43,709.77,em aberto,Boleto,Contrato 5/2024,
+2024-05-30,2024-05-30,Cliente_5_44,263.5,recebido,Pix,Contrato 5/2024,0.0
+2024-05-20,2024-05-20,Cliente_5_45,415.84,recebido,Pix,Contrato 5/2024,0.0
+2024-05-10,2024-05-23,Cliente_5_46,642.09,recebido,Pix,Contrato 5/2024,13.0
+2024-05-10,2000-01-01,Cliente_5_47,788.86,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-10,2024-05-02,Cliente_5_48,872.78,recebido,Pix,Contrato 5/2024,-8.0
+2024-05-05,2024-05-05,Cliente_5_49,939.83,recebido,Boleto,Contrato 5/2024,0.0
+2024-05-10,2000-01-01,Cliente_5_50,661.7,em aberto,Boleto,Contrato 5/2024,
+2024-05-05,2000-01-01,Cliente_5_51,272.31,em aberto,Boleto,Contrato 5/2024,
+2024-05-30,2024-05-22,Cliente_5_52,303.15,recebido,Cartão de Crédito,Contrato 5/2024,-8.0
+2024-05-05,2024-05-05,Cliente_5_53,199.08,recebido,Boleto,Contrato 5/2024,0.0
+2024-05-20,2024-05-12,Cliente_5_54,210.76,recebido,Boleto,Contrato 5/2024,-8.0
+2024-05-10,2000-01-01,Cliente_5_55,558.93,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-10,2024-05-19,Cliente_5_56,149.39,recebido,Cartão de Crédito,Contrato 5/2024,9.0
+2024-05-20,2024-05-24,Cliente_5_57,173.09,recebido,Pix,Contrato 5/2024,4.0
+2024-05-30,2000-01-01,Cliente_5_58,511.31,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-10,2000-01-01,Cliente_5_59,625.77,em aberto,Boleto,Contrato 5/2024,
+2024-05-05,2024-05-03,Cliente_5_60,287.72,recebido,Boleto,Contrato 5/2024,-2.0
+2024-05-20,2000-01-01,Cliente_5_61,579.19,em aberto,Boleto,Contrato 5/2024,
+2024-05-10,2000-01-01,Cliente_5_62,400.71,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-05,2024-05-05,Cliente_5_63,214.88,recebido,Cartão de Crédito,Contrato 5/2024,0.0
+2024-05-05,2024-05-17,Cliente_5_64,769.92,recebido,Cartão de Crédito,Contrato 5/2024,12.0
+2024-05-05,2024-05-16,Cliente_5_65,948.82,recebido,Boleto,Contrato 5/2024,11.0
+2024-05-20,2000-01-01,Cliente_5_66,706.83,em aberto,Pix,Contrato 5/2024,
+2024-05-20,2000-01-01,Cliente_5_67,550.37,em aberto,Boleto,Contrato 5/2024,
+2024-05-10,2024-05-12,Cliente_5_68,315.64,recebido,Cartão de Crédito,Contrato 5/2024,2.0
+2024-05-05,2000-01-01,Cliente_5_69,786.16,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-10,2000-01-01,Cliente_5_70,781.83,em aberto,Pix,Contrato 5/2024,
+2024-05-30,2000-01-01,Cliente_5_71,511.74,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-30,2000-01-01,Cliente_5_72,961.3,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-10,2024-04-30,Cliente_5_73,428.39,recebido,Pix,Contrato 5/2024,-10.0
+2024-05-30,2000-01-01,Cliente_5_74,310.83,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-20,2024-05-20,Cliente_5_75,485.79,recebido,Cartão de Crédito,Contrato 5/2024,0.0
+2024-05-05,2024-05-05,Cliente_5_76,126.1,recebido,Cartão de Crédito,Contrato 5/2024,0.0
+2024-05-30,2000-01-01,Cliente_5_77,976.66,em aberto,Pix,Contrato 5/2024,
+2024-05-05,2000-01-01,Cliente_5_78,613.18,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-20,2000-01-01,Cliente_5_79,465.35,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-10,2000-01-01,Cliente_5_80,403.14,em aberto,Boleto,Contrato 5/2024,
+2024-05-30,2024-05-23,Cliente_5_81,880.9,recebido,Pix,Contrato 5/2024,-7.0
+2024-05-05,2000-01-01,Cliente_5_82,129.34,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-05,2000-01-01,Cliente_5_83,436.77,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-30,2000-01-01,Cliente_5_84,687.11,em aberto,Boleto,Contrato 5/2024,
+2024-05-20,2000-01-01,Cliente_5_85,461.79,em aberto,Boleto,Contrato 5/2024,
+2024-05-30,2000-01-01,Cliente_5_86,873.38,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-10,2000-01-01,Cliente_5_87,973.86,em aberto,Boleto,Contrato 5/2024,
+2024-05-20,2000-01-01,Cliente_5_88,449.61,em aberto,Pix,Contrato 5/2024,
+2024-05-10,2024-05-10,Cliente_5_89,952.75,recebido,Pix,Contrato 5/2024,0.0
+2024-05-30,2000-01-01,Cliente_5_90,374.88,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-30,2024-05-25,Cliente_5_91,542.44,recebido,Pix,Contrato 5/2024,-5.0
+2024-05-20,2024-05-19,Cliente_5_92,985.17,recebido,Cartão de Crédito,Contrato 5/2024,-1.0
+2024-05-20,2024-05-11,Cliente_5_93,939.72,recebido,Cartão de Crédito,Contrato 5/2024,-9.0
+2024-05-05,2000-01-01,Cliente_5_94,328.44,em aberto,Pix,Contrato 5/2024,
+2024-05-20,2000-01-01,Cliente_5_95,543.55,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-05,2000-01-01,Cliente_5_96,732.86,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-20,2024-05-20,Cliente_5_97,541.89,recebido,Boleto,Contrato 5/2024,0.0
+2024-05-05,2000-01-01,Cliente_5_98,787.43,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-05,2024-05-05,Cliente_5_99,179.94,recebido,Cartão de Crédito,Contrato 5/2024,0.0
+2024-05-20,2000-01-01,Cliente_5_100,845.61,em aberto,Pix,Contrato 5/2024,
+2024-05-20,2024-05-20,Cliente_5_101,228.05,recebido,Pix,Contrato 5/2024,0.0
+2024-05-10,2000-01-01,Cliente_5_102,696.24,em aberto,Boleto,Contrato 5/2024,
+2024-05-05,2024-05-18,Cliente_5_103,574.84,recebido,Cartão de Crédito,Contrato 5/2024,13.0
+2024-05-30,2000-01-01,Cliente_5_104,247.49,em aberto,Pix,Contrato 5/2024,
+2024-05-20,2024-05-20,Cliente_5_105,899.53,recebido,Boleto,Contrato 5/2024,0.0
+2024-05-20,2024-05-27,Cliente_5_106,868.6,recebido,Pix,Contrato 5/2024,7.0
+2024-05-05,2000-01-01,Cliente_5_107,896.41,em aberto,Boleto,Contrato 5/2024,
+2024-05-30,2000-01-01,Cliente_5_108,801.21,em aberto,Boleto,Contrato 5/2024,
+2024-05-05,2000-01-01,Cliente_5_109,624.71,em aberto,Boleto,Contrato 5/2024,
+2024-05-05,2024-05-01,Cliente_5_110,289.8,recebido,Pix,Contrato 5/2024,-4.0
+2024-05-20,2000-01-01,Cliente_5_111,360.9,em aberto,Pix,Contrato 5/2024,
+2024-05-30,2000-01-01,Cliente_5_112,253.45,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-10,2024-04-30,Cliente_5_113,771.76,recebido,Cartão de Crédito,Contrato 5/2024,-10.0
+2024-05-30,2000-01-01,Cliente_5_114,632.88,em aberto,Pix,Contrato 5/2024,
+2024-05-05,2000-01-01,Cliente_5_115,703.74,em aberto,Boleto,Contrato 5/2024,
+2024-05-10,2024-05-19,Cliente_5_116,623.46,recebido,Boleto,Contrato 5/2024,9.0
+2024-05-20,2024-05-24,Cliente_5_117,705.63,recebido,Cartão de Crédito,Contrato 5/2024,4.0
+2024-05-05,2024-05-05,Cliente_5_118,152.56,recebido,Pix,Contrato 5/2024,0.0
+2024-05-20,2024-05-18,Cliente_5_119,965.53,recebido,Pix,Contrato 5/2024,-2.0
+2024-05-05,2000-01-01,Cliente_5_120,552.81,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-20,2000-01-01,Cliente_5_121,513.74,em aberto,Boleto,Contrato 5/2024,
+2024-05-30,2000-01-01,Cliente_5_122,422.25,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-10,2000-01-01,Cliente_5_123,187.65,em aberto,Pix,Contrato 5/2024,
+2024-05-05,2024-05-04,Cliente_5_124,448.87,recebido,Cartão de Crédito,Contrato 5/2024,-1.0
+2024-05-05,2000-01-01,Cliente_5_125,359.85,em aberto,Pix,Contrato 5/2024,
+2024-05-30,2024-05-20,Cliente_5_126,181.55,recebido,Cartão de Crédito,Contrato 5/2024,-10.0
+2024-05-20,2000-01-01,Cliente_5_127,375.06,em aberto,Boleto,Contrato 5/2024,
+2024-05-30,2024-06-05,Cliente_5_128,678.4,recebido,Boleto,Contrato 5/2024,6.0
+2024-05-05,2000-01-01,Cliente_5_129,835.12,em aberto,Boleto,Contrato 5/2024,
+2024-05-10,2024-05-14,Cliente_5_130,352.5,recebido,Boleto,Contrato 5/2024,4.0
+2024-05-30,2000-01-01,Cliente_5_131,154.63,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-10,2024-05-07,Cliente_5_132,657.56,recebido,Pix,Contrato 5/2024,-3.0
+2024-05-20,2000-01-01,Cliente_5_133,635.01,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-05,2000-01-01,Cliente_5_134,613.14,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-05-20,2024-05-15,Cliente_5_135,683.93,recebido,Boleto,Contrato 5/2024,-5.0
+2024-05-20,2000-01-01,Cliente_5_136,580.18,em aberto,Pix,Contrato 5/2024,
+2024-05-20,2024-05-23,Cliente_5_137,235.51,recebido,Boleto,Contrato 5/2024,3.0
+2024-05-20,2024-05-20,Cliente_5_138,533.35,recebido,Pix,Contrato 5/2024,0.0
+2024-05-05,2000-01-01,Cliente_5_139,127.67,em aberto,Boleto,Contrato 5/2024,
+2024-05-30,2024-05-30,Cliente_5_140,218.4,recebido,Pix,Contrato 5/2024,0.0
+2024-05-30,2000-01-01,Cliente_5_141,502.78,em aberto,Boleto,Contrato 5/2024,
+2024-05-10,2000-01-01,Cliente_5_142,691.99,em aberto,Pix,Contrato 5/2024,
+2024-05-05,2024-05-05,Cliente_5_143,376.01,recebido,Cartão de Crédito,Contrato 5/2024,0.0
+2024-05-10,2024-05-04,Cliente_5_144,629.44,recebido,Pix,Contrato 5/2024,-6.0
+2024-05-05,2024-04-30,Cliente_5_145,328.09,recebido,Cartão de Crédito,Contrato 5/2024,-5.0
+2024-05-20,2000-01-01,Cliente_5_146,983.34,em aberto,Boleto,Contrato 5/2024,
+2024-05-10,2024-05-10,Cliente_5_147,524.44,recebido,Cartão de Crédito,Contrato 5/2024,0.0
+2024-05-05,2024-05-13,Cliente_5_148,613.78,recebido,Pix,Contrato 5/2024,8.0
+2024-05-20,2024-05-20,Cliente_5_149,163.63,recebido,Boleto,Contrato 5/2024,0.0
+2024-05-30,2024-05-30,Cliente_5_150,824.74,recebido,Boleto,Contrato 5/2024,0.0
+2024-05-05,2024-05-05,Cliente_5_151,432.73,recebido,Pix,Contrato 5/2024,0.0
+2024-05-05,2000-01-01,Cliente_5_152,755.97,em aberto,Pix,Contrato 5/2024,
+2024-05-20,2024-05-20,Cliente_5_153,487.48,recebido,Cartão de Crédito,Contrato 5/2024,0.0
+2024-05-30,2024-06-09,Cliente_5_154,229.65,recebido,Cartão de Crédito,Contrato 5/2024,10.0
+2024-05-05,2024-05-18,Cliente_5_155,730.77,recebido,Boleto,Contrato 5/2024,13.0
+2024-05-10,2000-01-01,Cliente_5_156,416.67,em aberto,Boleto,Contrato 5/2024,
+2024-05-05,2000-01-01,Cliente_5_157,590.41,em aberto,Cartão de Crédito,Contrato 5/2024,
+2024-06-10,2000-01-01,Cliente_6_1,671.98,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-10,2024-06-12,Cliente_6_2,787.11,recebido,Cartão de Crédito,Contrato 6/2024,2.0
+2024-06-05,2024-05-28,Cliente_6_3,923.43,recebido,Cartão de Crédito,Contrato 6/2024,-8.0
+2024-06-10,2024-06-03,Cliente_6_4,180.25,recebido,Pix,Contrato 6/2024,-7.0
+2024-06-20,2024-06-20,Cliente_6_5,773.64,recebido,Boleto,Contrato 6/2024,0.0
+2024-06-05,2024-06-05,Cliente_6_6,609.12,recebido,Cartão de Crédito,Contrato 6/2024,0.0
+2024-06-05,2000-01-01,Cliente_6_7,422.7,em aberto,Boleto,Contrato 6/2024,
+2024-06-20,2000-01-01,Cliente_6_8,825.45,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-30,2024-07-14,Cliente_6_9,664.38,recebido,Pix,Contrato 6/2024,14.0
+2024-06-10,2000-01-01,Cliente_6_10,439.46,em aberto,Boleto,Contrato 6/2024,
+2024-06-05,2024-05-28,Cliente_6_11,910.2,recebido,Pix,Contrato 6/2024,-8.0
+2024-06-10,2000-01-01,Cliente_6_12,833.26,em aberto,Boleto,Contrato 6/2024,
+2024-06-20,2000-01-01,Cliente_6_13,200.3,em aberto,Pix,Contrato 6/2024,
+2024-06-10,2024-06-22,Cliente_6_14,549.24,recebido,Cartão de Crédito,Contrato 6/2024,12.0
+2024-06-10,2000-01-01,Cliente_6_15,959.38,em aberto,Boleto,Contrato 6/2024,
+2024-06-30,2024-06-30,Cliente_6_16,717.42,recebido,Pix,Contrato 6/2024,0.0
+2024-06-10,2024-06-06,Cliente_6_17,188.27,recebido,Boleto,Contrato 6/2024,-4.0
+2024-06-10,2000-01-01,Cliente_6_18,765.96,em aberto,Boleto,Contrato 6/2024,
+2024-06-30,2024-07-05,Cliente_6_19,118.92,recebido,Cartão de Crédito,Contrato 6/2024,5.0
+2024-06-20,2024-07-04,Cliente_6_20,779.96,recebido,Pix,Contrato 6/2024,14.0
+2024-06-30,2024-06-28,Cliente_6_21,342.88,recebido,Pix,Contrato 6/2024,-2.0
+2024-06-10,2024-06-04,Cliente_6_22,573.38,recebido,Boleto,Contrato 6/2024,-6.0
+2024-06-20,2000-01-01,Cliente_6_23,604.1,em aberto,Pix,Contrato 6/2024,
+2024-06-10,2000-01-01,Cliente_6_24,710.63,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-20,2000-01-01,Cliente_6_25,359.8,em aberto,Boleto,Contrato 6/2024,
+2024-06-20,2024-06-20,Cliente_6_26,633.39,recebido,Cartão de Crédito,Contrato 6/2024,0.0
+2024-06-05,2024-06-14,Cliente_6_27,958.11,recebido,Pix,Contrato 6/2024,9.0
+2024-06-05,2024-06-15,Cliente_6_28,822.07,recebido,Cartão de Crédito,Contrato 6/2024,10.0
+2024-06-10,2024-06-07,Cliente_6_29,583.93,recebido,Boleto,Contrato 6/2024,-3.0
+2024-06-30,2024-06-23,Cliente_6_30,176.92,recebido,Boleto,Contrato 6/2024,-7.0
+2024-06-20,2024-07-02,Cliente_6_31,359.19,recebido,Pix,Contrato 6/2024,12.0
+2024-06-30,2000-01-01,Cliente_6_32,315.53,em aberto,Pix,Contrato 6/2024,
+2024-06-05,2000-01-01,Cliente_6_33,207.9,em aberto,Pix,Contrato 6/2024,
+2024-06-30,2024-06-30,Cliente_6_34,977.68,recebido,Pix,Contrato 6/2024,0.0
+2024-06-10,2024-06-10,Cliente_6_35,882.84,recebido,Pix,Contrato 6/2024,0.0
+2024-06-20,2024-06-23,Cliente_6_36,299.95,recebido,Cartão de Crédito,Contrato 6/2024,3.0
+2024-06-20,2000-01-01,Cliente_6_37,414.42,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-05,2024-06-02,Cliente_6_38,914.09,recebido,Pix,Contrato 6/2024,-3.0
+2024-06-10,2000-01-01,Cliente_6_39,574.59,em aberto,Pix,Contrato 6/2024,
+2024-06-30,2000-01-01,Cliente_6_40,582.07,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-20,2024-07-03,Cliente_6_41,859.78,recebido,Cartão de Crédito,Contrato 6/2024,13.0
+2024-06-10,2024-06-08,Cliente_6_42,675.65,recebido,Pix,Contrato 6/2024,-2.0
+2024-06-10,2000-01-01,Cliente_6_43,895.57,em aberto,Boleto,Contrato 6/2024,
+2024-06-05,2000-01-01,Cliente_6_44,258.36,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-10,2024-06-10,Cliente_6_45,311.04,recebido,Pix,Contrato 6/2024,0.0
+2024-06-30,2000-01-01,Cliente_6_46,128.51,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-20,2000-01-01,Cliente_6_47,952.91,em aberto,Pix,Contrato 6/2024,
+2024-06-30,2024-06-29,Cliente_6_48,795.06,recebido,Boleto,Contrato 6/2024,-1.0
+2024-06-10,2000-01-01,Cliente_6_49,887.89,em aberto,Boleto,Contrato 6/2024,
+2024-06-10,2000-01-01,Cliente_6_50,853.67,em aberto,Boleto,Contrato 6/2024,
+2024-06-30,2000-01-01,Cliente_6_51,766.21,em aberto,Pix,Contrato 6/2024,
+2024-06-10,2000-01-01,Cliente_6_52,362.24,em aberto,Pix,Contrato 6/2024,
+2024-06-10,2000-01-01,Cliente_6_53,969.52,em aberto,Pix,Contrato 6/2024,
+2024-06-20,2024-06-26,Cliente_6_54,676.42,recebido,Pix,Contrato 6/2024,6.0
+2024-06-05,2000-01-01,Cliente_6_55,317.97,em aberto,Boleto,Contrato 6/2024,
+2024-06-05,2024-05-30,Cliente_6_56,913.53,recebido,Cartão de Crédito,Contrato 6/2024,-6.0
+2024-06-10,2000-01-01,Cliente_6_57,383.62,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-10,2024-06-10,Cliente_6_58,434.49,recebido,Boleto,Contrato 6/2024,0.0
+2024-06-30,2000-01-01,Cliente_6_59,410.82,em aberto,Pix,Contrato 6/2024,
+2024-06-20,2024-06-24,Cliente_6_60,808.36,recebido,Cartão de Crédito,Contrato 6/2024,4.0
+2024-06-20,2000-01-01,Cliente_6_61,621.76,em aberto,Pix,Contrato 6/2024,
+2024-06-05,2000-01-01,Cliente_6_62,498.36,em aberto,Pix,Contrato 6/2024,
+2024-06-20,2000-01-01,Cliente_6_63,871.59,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-20,2000-01-01,Cliente_6_64,442.33,em aberto,Pix,Contrato 6/2024,
+2024-06-05,2000-01-01,Cliente_6_65,100.77,em aberto,Pix,Contrato 6/2024,
+2024-06-20,2024-06-23,Cliente_6_66,544.57,recebido,Cartão de Crédito,Contrato 6/2024,3.0
+2024-06-30,2024-06-30,Cliente_6_67,591.6,recebido,Cartão de Crédito,Contrato 6/2024,0.0
+2024-06-05,2000-01-01,Cliente_6_68,252.87,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-30,2024-06-21,Cliente_6_69,713.18,recebido,Boleto,Contrato 6/2024,-9.0
+2024-06-10,2000-01-01,Cliente_6_70,104.43,em aberto,Boleto,Contrato 6/2024,
+2024-06-20,2024-06-20,Cliente_6_71,489.67,recebido,Cartão de Crédito,Contrato 6/2024,0.0
+2024-06-20,2024-06-20,Cliente_6_72,880.77,recebido,Cartão de Crédito,Contrato 6/2024,0.0
+2024-06-20,2000-01-01,Cliente_6_73,694.66,em aberto,Pix,Contrato 6/2024,
+2024-06-10,2024-06-24,Cliente_6_74,970.21,recebido,Pix,Contrato 6/2024,14.0
+2024-06-10,2024-06-01,Cliente_6_75,147.96,recebido,Boleto,Contrato 6/2024,-9.0
+2024-06-30,2024-06-30,Cliente_6_76,911.57,recebido,Boleto,Contrato 6/2024,0.0
+2024-06-10,2024-06-10,Cliente_6_77,447.53,recebido,Cartão de Crédito,Contrato 6/2024,0.0
+2024-06-05,2024-06-05,Cliente_6_78,511.15,recebido,Pix,Contrato 6/2024,0.0
+2024-06-20,2000-01-01,Cliente_6_79,726.6,em aberto,Pix,Contrato 6/2024,
+2024-06-05,2000-01-01,Cliente_6_80,908.7,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-10,2000-01-01,Cliente_6_81,810.36,em aberto,Boleto,Contrato 6/2024,
+2024-06-20,2000-01-01,Cliente_6_82,259.29,em aberto,Pix,Contrato 6/2024,
+2024-06-05,2024-06-18,Cliente_6_83,246.87,recebido,Pix,Contrato 6/2024,13.0
+2024-06-20,2000-01-01,Cliente_6_84,601.6,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-20,2024-06-29,Cliente_6_85,343.01,recebido,Boleto,Contrato 6/2024,9.0
+2024-06-20,2000-01-01,Cliente_6_86,927.08,em aberto,Boleto,Contrato 6/2024,
+2024-06-10,2024-06-10,Cliente_6_87,530.47,recebido,Boleto,Contrato 6/2024,0.0
+2024-06-10,2024-06-10,Cliente_6_88,548.69,recebido,Pix,Contrato 6/2024,0.0
+2024-06-05,2000-01-01,Cliente_6_89,497.54,em aberto,Boleto,Contrato 6/2024,
+2024-06-20,2000-01-01,Cliente_6_90,543.56,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-10,2000-01-01,Cliente_6_91,383.64,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-10,2024-06-07,Cliente_6_92,637.36,recebido,Pix,Contrato 6/2024,-3.0
+2024-06-10,2000-01-01,Cliente_6_93,373.83,em aberto,Pix,Contrato 6/2024,
+2024-06-05,2000-01-01,Cliente_6_94,467.99,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-05,2024-06-05,Cliente_6_95,777.87,recebido,Boleto,Contrato 6/2024,0.0
+2024-06-10,2024-06-11,Cliente_6_96,925.09,recebido,Boleto,Contrato 6/2024,1.0
+2024-06-20,2000-01-01,Cliente_6_97,763.39,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-30,2000-01-01,Cliente_6_98,967.96,em aberto,Boleto,Contrato 6/2024,
+2024-06-20,2024-06-23,Cliente_6_99,142.07,recebido,Cartão de Crédito,Contrato 6/2024,3.0
+2024-06-05,2000-01-01,Cliente_6_100,659.19,em aberto,Pix,Contrato 6/2024,
+2024-06-10,2024-06-16,Cliente_6_101,584.49,recebido,Pix,Contrato 6/2024,6.0
+2024-06-10,2000-01-01,Cliente_6_102,838.21,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-10,2024-06-10,Cliente_6_103,963.81,recebido,Cartão de Crédito,Contrato 6/2024,0.0
+2024-06-10,2024-06-04,Cliente_6_104,950.5,recebido,Boleto,Contrato 6/2024,-6.0
+2024-06-30,2000-01-01,Cliente_6_105,142.97,em aberto,Pix,Contrato 6/2024,
+2024-06-30,2024-07-14,Cliente_6_106,284.24,recebido,Boleto,Contrato 6/2024,14.0
+2024-06-30,2000-01-01,Cliente_6_107,434.08,em aberto,Boleto,Contrato 6/2024,
+2024-06-30,2000-01-01,Cliente_6_108,714.79,em aberto,Boleto,Contrato 6/2024,
+2024-06-20,2000-01-01,Cliente_6_109,438.69,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-20,2024-06-26,Cliente_6_110,531.95,recebido,Cartão de Crédito,Contrato 6/2024,6.0
+2024-06-20,2000-01-01,Cliente_6_111,583.32,em aberto,Boleto,Contrato 6/2024,
+2024-06-05,2000-01-01,Cliente_6_112,625.63,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-05,2024-06-11,Cliente_6_113,689.88,recebido,Pix,Contrato 6/2024,6.0
+2024-06-10,2000-01-01,Cliente_6_114,394.17,em aberto,Boleto,Contrato 6/2024,
+2024-06-20,2024-06-12,Cliente_6_115,754.67,recebido,Cartão de Crédito,Contrato 6/2024,-8.0
+2024-06-10,2024-06-25,Cliente_6_116,305.37,recebido,Cartão de Crédito,Contrato 6/2024,15.0
+2024-06-05,2000-01-01,Cliente_6_117,724.47,em aberto,Boleto,Contrato 6/2024,
+2024-06-05,2024-06-10,Cliente_6_118,762.44,recebido,Pix,Contrato 6/2024,5.0
+2024-06-05,2000-01-01,Cliente_6_119,790.92,em aberto,Pix,Contrato 6/2024,
+2024-06-20,2024-06-20,Cliente_6_120,390.89,recebido,Cartão de Crédito,Contrato 6/2024,0.0
+2024-06-10,2024-06-19,Cliente_6_121,934.69,recebido,Cartão de Crédito,Contrato 6/2024,9.0
+2024-06-20,2000-01-01,Cliente_6_122,444.94,em aberto,Boleto,Contrato 6/2024,
+2024-06-30,2000-01-01,Cliente_6_123,262.73,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-20,2000-01-01,Cliente_6_124,447.84,em aberto,Pix,Contrato 6/2024,
+2024-06-05,2024-06-19,Cliente_6_125,533.17,recebido,Boleto,Contrato 6/2024,14.0
+2024-06-20,2000-01-01,Cliente_6_126,878.41,em aberto,Pix,Contrato 6/2024,
+2024-06-30,2024-07-04,Cliente_6_127,980.43,recebido,Boleto,Contrato 6/2024,4.0
+2024-06-05,2000-01-01,Cliente_6_128,100.48,em aberto,Boleto,Contrato 6/2024,
+2024-06-10,2024-06-24,Cliente_6_129,279.81,recebido,Boleto,Contrato 6/2024,14.0
+2024-06-05,2000-01-01,Cliente_6_130,289.11,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-05,2000-01-01,Cliente_6_131,720.01,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-20,2024-06-20,Cliente_6_132,699.39,recebido,Boleto,Contrato 6/2024,0.0
+2024-06-20,2024-06-27,Cliente_6_133,642.82,recebido,Boleto,Contrato 6/2024,7.0
+2024-06-05,2000-01-01,Cliente_6_134,902.1,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-20,2024-06-15,Cliente_6_135,727.74,recebido,Pix,Contrato 6/2024,-5.0
+2024-06-30,2000-01-01,Cliente_6_136,510.06,em aberto,Boleto,Contrato 6/2024,
+2024-06-05,2000-01-01,Cliente_6_137,223.13,em aberto,Boleto,Contrato 6/2024,
+2024-06-30,2024-06-30,Cliente_6_138,609.35,recebido,Cartão de Crédito,Contrato 6/2024,0.0
+2024-06-30,2024-06-30,Cliente_6_139,972.8,recebido,Pix,Contrato 6/2024,0.0
+2024-06-10,2024-06-09,Cliente_6_140,504.64,recebido,Boleto,Contrato 6/2024,-1.0
+2024-06-05,2024-05-30,Cliente_6_141,153.04,recebido,Cartão de Crédito,Contrato 6/2024,-6.0
+2024-06-10,2000-01-01,Cliente_6_142,554.38,em aberto,Boleto,Contrato 6/2024,
+2024-06-10,2000-01-01,Cliente_6_143,332.11,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-05,2024-06-05,Cliente_6_144,108.03,recebido,Cartão de Crédito,Contrato 6/2024,0.0
+2024-06-20,2000-01-01,Cliente_6_145,277.26,em aberto,Boleto,Contrato 6/2024,
+2024-06-20,2000-01-01,Cliente_6_146,388.16,em aberto,Boleto,Contrato 6/2024,
+2024-06-10,2024-06-10,Cliente_6_147,851.66,recebido,Cartão de Crédito,Contrato 6/2024,0.0
+2024-06-30,2000-01-01,Cliente_6_148,769.43,em aberto,Pix,Contrato 6/2024,
+2024-06-10,2024-06-10,Cliente_6_149,250.7,recebido,Pix,Contrato 6/2024,0.0
+2024-06-10,2024-06-24,Cliente_6_150,668.83,recebido,Pix,Contrato 6/2024,14.0
+2024-06-30,2024-07-01,Cliente_6_151,503.83,recebido,Boleto,Contrato 6/2024,1.0
+2024-06-05,2000-01-01,Cliente_6_152,982.97,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-30,2024-06-27,Cliente_6_153,178.45,recebido,Boleto,Contrato 6/2024,-3.0
+2024-06-30,2000-01-01,Cliente_6_154,443.82,em aberto,Cartão de Crédito,Contrato 6/2024,
+2024-06-20,2000-01-01,Cliente_6_155,444.62,em aberto,Cartão de Crédito,Contrato 6/2024,
